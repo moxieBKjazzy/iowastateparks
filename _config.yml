@@ -25,7 +25,7 @@ tagline: The creation of State Parks in Iowa.
 # this description might appear in search result lists, keep around 160 characters max
 description: "Iowa State Parks is a collection which presents the beginning history with contributors, maps and drawings."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: iowa;history;state parks;maps
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: moxiebkjazzy
 
@@ -50,10 +50,10 @@ metadata: iowastateparks
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "Iowa State University Library Digital Collections"
+organization-link: https://digitalcollections.lib.iastate.edu/
+organization-logo-banner: https://digitalcollections.lib.iastate.edu/sites/public.uni.dgicloud.com.isu/files/ISU_secondary_red.png
+organization-logo-nav: https://digitalcollections.lib.iastate.edu/sites/public.uni.dgicloud.com.isu/files/DClogo3.gif
 
 ##########
 # ROBOTS EXCLUDE
