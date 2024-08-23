@@ -5,9 +5,9 @@ permalink: /2017parks.html
 ---
 
 
-{% include feature/jumbotron.html objectid="https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html" %} 
-
 ## Iowa State Parks 2017 StoryMap
+
+"https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html"
 
 ###State Parks and ISU Today###
 Iowa State's involvement with the state's park system did not end with the establishment and development of the parks in the 1920s and 1930s. In fact, Iowa State's faculty and students have long been proponents and users of the parks. Iowa State University faculty have long used state parks as outdoor classrooms, and as a training ground for the next generation of scientists. Scientists from Iowa State study the unusual geologic features visible at many parks in order to better understand the processes that shaped Iowa's landscape. Biologists use state parks and wildlife areas to explore the relationships between the local flora and fauna. Numerous publications exist by Iowa State faculty which include Iowa's state parks, including over 60 articles by geology professor Charles S. Gwynne in the Iowa Conservationist describing the geologic history of many of Iowa’s state parks.
