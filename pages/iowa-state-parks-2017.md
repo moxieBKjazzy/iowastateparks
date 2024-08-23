@@ -3,7 +3,6 @@ title: Iowa State Parks 2017
 layout: about
 permalink: /iowa-state-parks-2017.html
 ---
-{% include feature/jumbotron.html objectid="https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html" %}
 
 <html>
 <body>
