@@ -3,11 +3,8 @@ title: Iowa State Parks 2017
 layout: about
 permalink: /iowa-state-parks-2017.html
 ---
-<!-- The StoryMap container can go anywhere on the page. Be sure to
-    specify a width and height.  The width can be absolute (in pixels) or
-    relative (in percentage), but the height must be an absolute value.
-    Of course, you can specify width and height with CSS instead -->
-<div id="mapdiv" style="width: 100%; height: 600px;"></div>
+
+## Iowa State Parks 2017 StoryMap
 
 <!-- Your script tags should be placed before the closing body tag. -->
 <link rel="stylesheet" href="https://cdn.knightlab.com/libs/storymapjs/latest/css/storymap.css">
@@ -15,20 +12,16 @@ permalink: /iowa-state-parks-2017.html
 
 <script>
 // storymap_data can be an URL or a Javascript object
-var storymap_data = '/static/demo/demo.json';
+// var storymap_data = 'https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html';
 
 // certain settings must be passed within a separate options object
-var storymap_options = {};
+// var storymap_options = {};
 
-var storymap = new KLStoryMap.StoryMap('mapdiv', storymap_data, storymap_options);
-window.onresize = function(event) {
-    storymap.updateDisplay(); // this isn't automatic
-}
+// var storymap = new KLStoryMap.StoryMap('mapdiv', storymap_data, storymap_options);
+// window.onresize = function(event) {
+//    storymap.updateDisplay(); // this isn't automatic
+// }
 </script>
-
-## Iowa State Parks 2017 StoryMap
-
-"https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html"
 
 ### State Parks and ISU Today
 Iowa State's involvement with the state's park system did not end with the establishment and development of the parks in the 1920s and 1930s. In fact, Iowa State's faculty and students have long been proponents and users of the parks. Iowa State University faculty have long used state parks as outdoor classrooms, and as a training ground for the next generation of scientists. Scientists from Iowa State study the unusual geologic features visible at many parks in order to better understand the processes that shaped Iowa's landscape. Biologists use state parks and wildlife areas to explore the relationships between the local flora and fauna. Numerous publications exist by Iowa State faculty which include Iowa's state parks, including over 60 articles by geology professor Charles S. Gwynne in the Iowa Conservationist describing the geologic history of many of Iowa’s state parks.
