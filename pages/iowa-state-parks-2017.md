@@ -12,7 +12,7 @@ permalink: /iowa-state-parks-2017.html
 
 <script>
 // storymap_data can be an URL or a Javascript object
-// var storymap_data = 'https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html';
+var storymap_data = 'https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html';
 
 // certain settings must be passed within a separate options object
 // var storymap_options = {};
