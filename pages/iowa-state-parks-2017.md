@@ -22,13 +22,9 @@ var storymap_data = var storymap_data = '/static/demo/demo.json';
 //    storymap.updateDisplay(); // this isn't automatic
 // }
 </script>
+<iframe src="https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html" frameborder="0" width="100%" height="800" flush-top="0" padding-top="0"></iframe>
 </body>
 </html>
-
-<!--<iframe src="https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html" frameborder="0" width="100%" height="800" flush-top="0" padding-top="0"></iframe> 
-!-->
-
-[Iowa State Parks 2017](https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html)
 
 
 ## State Parks and ISU Today
