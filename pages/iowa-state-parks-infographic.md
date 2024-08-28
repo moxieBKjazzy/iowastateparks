@@ -3,6 +3,8 @@ title: Iowa State Parks 2017
 layout: about
 permalink: /iowa—state-parks-infographic.html
 ---
+<html>
+<body>
 <script>
 {
     font-family: Helvetica;
