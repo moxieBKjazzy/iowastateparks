@@ -1,7 +1,7 @@
 ---
 title: Iowa State Parks Infographic
 layout: about
-permalink: /iowa—state-parks-infographic.html
+permalink: /iowa-state-parks-infographic.html
 ---
 <html>
 <body>
