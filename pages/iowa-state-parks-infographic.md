@@ -4,10 +4,28 @@ layout: about
 permalink: /iowa—state-parks-infographic.html
 ---
 <script>
-<link rel="stylesheet" href="_sass/_custom.scss">
+{
+    font-family: Helvetica;
+    font-size: 1.4em;
+    color: white;
+    text-align: center;
+}
+.container div:nth-child(1), div:nth-child(6) {
+    background-color: #ffffff;
+}
+.container div:nth-child(2), div:nth-child(7) {
+    background-color: #ffffff;
+}
+.container div:nth-child(3), div:nth-child(8) {
+    background-color: #ffffff;
+}
+.container div:nth-child(4) {
+    background-color: #ffffff;
+}
+.container div:nth-child(5) {
+    background-color: #ffffff;
+}
 </script>
-</body>
-</html>
 <html>
 <body>
 <div class="container">
