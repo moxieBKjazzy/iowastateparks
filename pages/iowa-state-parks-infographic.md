@@ -1,9 +1,12 @@
 ---
 title: Iowa State Parks 2017
 layout: about
-permalink: /iowa—state-parks-Infographic.html
+permalink: /iowa—state-parks-infographic.html
 ---
-
+<link rel="stylesheet" href="_sass/_custom.scss">
+</script>
+</body>
+</html>
 <html>
 <body>
 <div class="container">
