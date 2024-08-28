@@ -1,7 +1,7 @@
 ---
 title: Iowa State Parks 2017
 layout: about
-permalink: /iowa-state-parks-2017.html
+permalink: /ISP-2017-Infographic.html
 ---
 
 <html>
