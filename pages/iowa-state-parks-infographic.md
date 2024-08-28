@@ -26,7 +26,7 @@ permalink: /iowa—state-parks-infographic.html
     background-color: #ffffff;
 }
 </script>
-<html>
+<!doctype html>
 <body>
 <div class="container">
     <div>1</div>
