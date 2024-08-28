@@ -1,5 +1,5 @@
 ---
-title: Iowa State Parks 2017
+title: Iowa State Parks Infographic
 layout: about
 permalink: /iowa—state-parks-infographic.html
 ---
