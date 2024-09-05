@@ -1,6 +1,6 @@
 ---
 layout: home-infographic
-title: Index-test
+title: index-test
 permalink: /
 ---
 
