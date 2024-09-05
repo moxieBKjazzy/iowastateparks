@@ -3,9 +3,9 @@
 layout: page
 ---
 {%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
-<div class="row" background color: grey>
+<div class="row">
 
-  <div class="col-md-4">
+  <div class="col-md-4" background color="grey">
 
     {% include index/description.html %}
 
