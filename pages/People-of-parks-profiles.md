@@ -42,11 +42,7 @@ permalink: /people-of-parks-profiles.html
     <br />
     Affiliated park: <a href"">Black Hawk State Park</a>.</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -56,11 +52,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -70,11 +62,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -84,11 +72,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -98,11 +82,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -112,11 +92,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -126,11 +102,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -140,11 +112,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -154,11 +122,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -168,11 +132,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -182,11 +142,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -196,11 +152,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -210,11 +162,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -224,11 +172,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -238,11 +182,7 @@ permalink: /people-of-parks-profiles.html
 <h2>Person's Name</h2>
   <p>Description of person</p>
 </div>
-<div class="col-sm-1">
-  <p></p>
-</div>
-<div class="col-sm-1">
-  <p></p>
+<div class="col-sm-2">
   <p></p>
 </div>
 <div class="col-sm-5">
@@ -251,9 +191,6 @@ permalink: /people-of-parks-profiles.html
 <div class="col-sm-5">
 <h2>Person's Name</h2>
   <p>Description of person</p>
-</div>
-<div class="col-sm-1">
-  <p></p>
 </div>
 </div>
 [^1]:  R
