@@ -14,7 +14,7 @@ permalink: /people-of-parks-profiles.html
   
 <div class="container">
   <div class="row">
-    <div class="col-sm-1">
+    <div class="col-sm-2">
       <p></p>
       <p></p>
  </div>
@@ -29,13 +29,9 @@ permalink: /people-of-parks-profiles.html
         Affliated park: <a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/ParkDetails/ParkID/610145">Beeds Lake State Park</a>.
       </p>
  </div>
- <div class="col-sm-1">
+ <div class="col-sm-2">
       <p></p>
  </div>
- <div class="col-sm-1">
-  <p></p>
-  <p></p>
-</div>
 <div class="col-sm-5">
   <p>Left side image</p>
 </div>
