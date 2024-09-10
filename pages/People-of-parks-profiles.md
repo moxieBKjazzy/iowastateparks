@@ -18,14 +18,12 @@ permalink: /people-of-parks-profiles.html
       <p></p>
       <p></p>
  </div>
- <div class="col-sm-5">
-      <p><img src="objects/people-parks/BeedsLake2.png"  alt="lake at park" style="width:75%;height:75%;"></p>
-      <div class="about-narrowed-content pt-4" class="img-fluid rounded lazyload" position="center">
-        <figcaption class="figure-caption text-center caption-color"><strong>Iowa DNR map of Beeds Lake</strong>.</figcaption>
-    
-</div>
+ <div class="col-sm-3">
+      <figure class="figure"><img src="objects/people-parks/BeedsLake2.png"  class="figure-img img-fluid rounded img-align-right" alt="lake at park" style="width:75%;height:75%;">
+        <figcaption class="figure-caption">Iowa DNR map of Beeds Lake.</figcaption>
+    </figure>
  </div>
- <div class="col-sm-5">
+ <div class="col-sm-7>
    <h2>William Beed</h2>
       <p>William Beed emigrated from England to the United States in the 1850s. Two miles north of Hampton, Iowa, Beed bought a grist mill and built a dike and pond on the site. There, he operated Franklin Roller Mills for forty years. [^1]Buehner, Kristin, and Peggy Senzarino. “Faces behind the Places,” <em>Mason City Globe Gazette</em>, August 27, 2006, online edition. http://globegazette.com/news/local/faces-behind-the-places/article_412c6876-cad3-5e58-8786-cdf177a6713c.html. [/^1]</p>
 <p>
@@ -34,13 +32,16 @@ permalink: /people-of-parks-profiles.html
         <br />
       </p>
  </div>
- <div class="col-sm-2">
+    <div class="col-sm-2">
+      <p></p>
       <p></p>
  </div>
-<div class="col-sm-5">
-  <p><img src="objects/people-parks/BlackHawkCCBY.png" class="img-rounded" alt="color painted portrait of Black Hawk" style="width:75%;height:75%;"></p>
-</div>
-<div class="col-sm-5">
+<div class="col-sm-3">
+<figure class="figure"><img src="objects/people-parks/BlackHawkCCBY.png" class="figure-img img-fluid rounded img-align-right" alt="color painted portrait of Black Hawk" style="width:75%;height:75%;">
+        <figcaption class="figure-caption">Iowa DNR map of Beeds Lake.</figcaption>
+    </figure>
+ </div>
+ <div class="col-sm-7">
 <h2>Black Hawk [^2]</h2>
   <p>Black Hawk was a warrior and leader of the Sauk nation. In the early 1800s, the United States initiated treaties with the Sauk and Meskwaki in a successful effort to take native lands and give them to white immigrants. Black Hawk led a group of Sauk that thought the treaty of 1804 was misleading and refused to comply. This resulted in forced removal of his people which in turn led to the defensive war that bears his name.After the Black Hawk War (1832), the United States government merged the Meskwaki and the Sauks into the Sac & Fox Confederacy and declared Keokuk the “Chief” of the Sauks. [^3]</p>
 <p>
@@ -48,27 +49,38 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-3">
-  <p></p>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
+<div class="col-sm-5">
+  <p><img src="objects/people-parks/CallPD.png" class="img-rounded" alt="portrait"  style="width:75%;height:75%;"></p>
 </div>
-<div class="col-sm-3">
-  <p><img src="objects/people-parks/CallPD.png" class="img-rounded" alt="portrait"  style="float:left;width:60%;height:60%;"></p>
+      <div class="about-narrowed-content pt-4" class="img-fluid rounded lazyload" position="center">
+        <figcaption class="figure-caption text-center caption-color"><strong>Iowa DNR map of Beeds Lake</strong>.</figcaption>
+    
 </div>
-<div class="col-sm-6">
-<h2>Ambrose A. Call[^4]</h2><div style="float:left;">
+ </div>
+ <div class="col-sm-5">
+   <h2>Ambrose A. Call[^4]</h2><div style="float:left;">
   <p>Ambrose A. Call was the founder of the Algona Pioneer Press and a U.S. Mail route contractor.[^5]</p>
  <p>
     Affiliated park: <a href="https://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/Ambrose-A-Call-State-Park">State Park</a>.</div></p>
           <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
-  <p><img src="objects/people-parks/LakeAnita3.png" class="img-rounded" alt="portrait"></p>
+  <p><img src="objects/people-parks/LakeAnita3.png" class="img-rounded" alt="portrait" style="float:right;width:60%;height:60%;"></p>
+      <div class="about-narrowed-content pt-4" class="img-fluid rounded lazyload" position="center">
+        <figcaption class="figure-caption text-center caption-color"><strong>Iowa DNR map of Beeds Lake</strong>.</figcaption>
+    
 </div>
-<div class="col-sm-5">
+ </div>
+ <div class="col-sm-5">
 <h2>Anita Cowles</h2>
   <p>Anita Cowles Rearden was an engraver from San Francisco and the niece of the person who named the town of Anita, Iowa. She created wood engravings for a book on the poetry of Sappho that her husband, Judge Timothy Rearden, had been working on when he died. The engravings were eventually published in the Arion Press edition of Poetry of Sappho, translated by John Daley and Page DuBois. [^6]</p>
 <p>
@@ -76,9 +88,10 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/DarlingPD.png" class="img-rounded" alt="portrait"></p>
 </div>
@@ -90,9 +103,10 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/DolliverPD.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -103,9 +117,10 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/HoeldoegelIALegislaturePortraitPD_1.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -114,9 +129,10 @@ permalink: /people-of-parks-profiles.html
         <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/Lacey.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -127,9 +143,10 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/LewisAndClarkPD.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -140,9 +157,10 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/MacbridePD.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -153,9 +171,10 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/McIntoshWoods.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -166,9 +185,10 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/ParvinPD.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -177,9 +197,10 @@ permalink: /people-of-parks-profiles.html
         <br />
         <br />
   </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/Pike-PD.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -190,8 +211,10 @@ permalink: /people-of-parks-profiles.html
         <br />
 </div>
 <div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/ShimekPD.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -202,8 +225,10 @@ permalink: /people-of-parks-profiles.html
         <br />
 </div>
 <div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/wapellaPD.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -214,9 +239,10 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/Waubonsie.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
@@ -227,9 +253,10 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-2">
-  <p></p>
-</div>
+    <div class="col-sm-2">
+      <p></p>
+      <p></p>
+ </div>
 <div class="col-sm-5">
   <p><img src="objects/people-parks/GeoWythSP.png" class="img-rounded" alt="portrait"></p></div>
 <div class="col-sm-5">
