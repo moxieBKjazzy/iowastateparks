@@ -19,7 +19,11 @@ permalink: /people-of-parks-profiles.html
       <p></p>
  </div>
  <div class="col-sm-5">
-      <p><img src="objects/people-parks/BeedsLake2.png" class="img-rounded" alt="lake at park"></p>
+      <p><img src="objects/people-parks/BeedsLake2.png"  alt="lake at park" style="width:75%;height:75%;"></p>
+      <div class="about-narrowed-content pt-4" class="img-fluid rounded lazyload" position="center">
+        <figcaption class="figure-caption text-center caption-color"><strong>Iowa DNR map of Beeds Lake</strong>.</figcaption>
+    
+</div>
  </div>
  <div class="col-sm-5">
    <h2>William Beed</h2>
@@ -34,7 +38,7 @@ permalink: /people-of-parks-profiles.html
       <p></p>
  </div>
 <div class="col-sm-5">
-  <p><img src="objects/people-parks/BlackHawkCCBY.png" class="img-rounded" alt="portrait"></p>
+  <p><img src="objects/people-parks/BlackHawkCCBY.png" class="img-rounded" alt="color painted portrait of Black Hawk" style="width:75%;height:75%;"></p>
 </div>
 <div class="col-sm-5">
 <h2>Black Hawk [^2]</h2>
@@ -44,17 +48,17 @@ permalink: /people-of-parks-profiles.html
           <br />
         <br />
 </div>
-<div class="col-sm-2">
+<div class="col-sm-3">
   <p></p>
 </div>
-<div class="col-sm-5">
-  <p><img src="objects/people-parks/CallPD.png" class="img-rounded" alt="portrait"></p>
+<div class="col-sm-3">
+  <p><img src="objects/people-parks/CallPD.png" class="img-rounded" alt="portrait"  style="float:left;width:60%;height:60%;"></p>
 </div>
-<div class="col-sm-5">
-<h2>Ambrose A. Call[^4]</h2>
+<div class="col-sm-6">
+<h2>Ambrose A. Call[^4]</h2><div style="float:left;">
   <p>Ambrose A. Call was the founder of the Algona Pioneer Press and a U.S. Mail route contractor.[^5]</p>
  <p>
-    Affiliated park: <a href="https://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/Ambrose-A-Call-State-Park">State Park</a>.</p>
+    Affiliated park: <a href="https://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/Ambrose-A-Call-State-Park">State Park</a>.</div></p>
           <br />
         <br />
 </div>
