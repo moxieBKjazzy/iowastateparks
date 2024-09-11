@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="objects/2017-ISP/00-Intro-PikesPeak-CC-BY.jpg" %} 
 
 ## About Iowa State Parks Digital Collection
 
