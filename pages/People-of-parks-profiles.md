@@ -6,11 +6,6 @@ permalink: /people-of-parks-profiles.html
 
 <html>
 <body>
-
-<div class="p-5 text-left">
-  <h1>People of Parks Profile</h1>
-  <p>In addition to Pammel and his colleagues at ISU, many others joined in the efforts to establish the park system. Some of the park names reflect these efforts and other people who have played a role in Iowa's history.</p> 
-</div>
   
 <div class="container">
   <div class="row">
@@ -270,5 +265,22 @@ permalink: /people-of-parks-profiles.html
 [^1]:  R
 [^2]: R
 [^3]: 
+
+<div class="p-5 text-left">
+  <h1>People of Parks Profile</h1>
+  <p>In addition to Pammel and his colleagues at ISU, many others joined in the efforts to establish the park system. Some of the park names reflect these efforts and other people who have played a role in Iowa's history.</p> 
+</div>
+
+<div class="card" style="width: 25rem;">
+  <img class="card-img" src="objects/people-parks/BeedsLake2.png" class="figure-img img-fluid" alt="lake at park" style="width:75%;height:75%;align:center;">
+  <div class="card-body">
+    <h5 class="card-title">Iowa DNR map of Beeds Lake<br /><br /> William Beeds</h5>
+    <p class="card-text">William Beed emigrated from England to the United States in the 1850s. Two miles north of Hampton, Iowa, Beed bought a grist mill and built a dike and pond on the site. There, he operated Franklin Roller Mills for forty years. [^1]Buehner, Kristin, and Peggy Senzarino. <a href="http://globegazette.com/news/local/faces-behind-the-places/article_412c6876-cad3-5e58-8786-cdf177a6713c.html.">“Faces behind the Places,” <em>Mason City Globe Gazette</em>, August 27, 2006, online edition.</a>[/^1]</p>
+<a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/ParkDetails/ParkID/610145" class="btn btn-primary">Beeds Lake State Park</a>
+  </div>
+</div>
+
+
+
 </body>
 </html>
