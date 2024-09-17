@@ -4,30 +4,14 @@ layout: about
 permalink: /iowa-state-parks-infographic.html
 ---
 
-{%- assign items = site.data[site.metadata] | where_exp: 'item','item.objectid' -%}
 <div class="row">
 
-  <div class="col-md-8">
-{{content}}
-    {% include index/description.html %}
-    {% include index/carousel.html title="Sample Items" %}
-    
-  </div>
-  <div class="col-md-4">  
-
-    {% include index/time.html %}
-
-    {% include index/featured-terms.html field="subject" title="Top Subjects" btn-color="primary" %}
-
-    {% include index/featured-terms.html field="location" title="Locations" btn-color="outline-secondary" %}
-    
-    {% include index/objects.html %}
-
-  </div>
   <div class="col-md-12">
 
-    {% include index/data-download.html %}
-
+    {% include index/description.html %}
+    
   </div>
-
+  <div class="col-md-12">  
+    <iframe src="https://uploads.knightlab.com/storymapjs/85c4cee1f88355a2af7ddd934ef5ee15/iowa-state-parks-2017/index.html" frameborder="0" width="100%" height="800" flush-top="0" padding-top="0"></iframe>
+</div>  
 </div>
