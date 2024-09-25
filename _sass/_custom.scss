@@ -7,7 +7,7 @@
     background: #000;
 }
 .grid {
-    background: hsl(36, 100%, 99%);
+    background: hsl(0, 0%, 0%);
     width: 100%;
     max-width: 1500px;
     height: 1000px;
@@ -16,6 +16,7 @@
     padding: 1vw;
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: auto;
+    text: white;
   }
   .grid {
     background: hsl(0, 0%, 0%);
@@ -72,7 +73,7 @@
     background-color: #000000;
     border-radius: 0.3rem;
 }  
-$primary:       #ff0000 !default;
+$primary:       #C8102E !default;
 
 /**
  * Initialiazing a `footnotes` counter on the wrapper
@@ -107,7 +108,7 @@ a[aria-describedby="footnote-label"]::after {
   vertical-align: super; /* 2 */
   font-size: 0.5em; /* 3 */
   margin-left: 2px; /* 4 */
-  color: blue; /* 5 */
+  color: #C8102E; /* 5 */
   text-decoration: underline; /* 5 */
   cursor: pointer; /* 5 */
 }
@@ -123,3 +124,6 @@ a[aria-describedby="footnote-label"]:focus::after {
 *footer :target {
 *  background: yellow;}
 */
+
+{$primary:#C8102E !default;
+}

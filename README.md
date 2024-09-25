@@ -1,3 +1,3 @@
-# About Iowa State PArks Digital Collection
+# About Iowa State Parks Digital Collection
 
-In the early 20th century, Iowa State University botanist Louis Hermann Pammel (1862-1931), ISU botanist Ada Hayden (1884-1950), and the university's Landscape Architecture Extension Program played key roles in advocating for and developing Iowa's state parks. This collection includes correspondence, photographs, maps, and other materials pertaining to the people and programs active in the state park movement.
+This is a CollectionBuilder site created by the Iowa State University Digital Scholarship and Initiatives Department as a digital exhibit to showcase the Iowa State Parks history and was created in conjunction with the Iowa State University Special Collections and Archives Department for the latter's physical display.
