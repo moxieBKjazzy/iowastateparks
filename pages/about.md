@@ -20,9 +20,9 @@ Iowa State's involvement with the state's park system did not end with the estab
  
 
 ### State Preserves Act of 1965
-Iowa's State Preserves Act of 1965 provides a strict form of protection to natural areas designated as preserves, keeping them as close to their natural state as possible. In addition to a higher form of protection, preserves offer the public an alternative to state parks, which by the middle of the 20thcentury were increasingly centered around providing recreational facilities.[^1] As defined by the legislation (Chapter 465C.1 of the Code of Iowa), preserves are "an area of land or water formally dedicated...for maintenance as nearly as possible in its natural condition though it need not be completely primeval in character at the time of dedication or an area which has unusual flora, fauna, geological, archeological, scenic, or historical features of scientific or educational value."[^2]
+Iowa's State Preserves Act of 1965 provides a strict form of protection to natural areas designated as preserves, keeping them as close to their natural state as possible. In addition to a higher form of protection, preserves offer the public an alternative to state parks, which by the middle of the 20th century were increasingly centered around providing recreational facilities.[^1] As defined by the legislation (Chapter 465C.1 of the Code of Iowa), preserves are "an area of land or water formally dedicated...for maintenance as nearly as possible in its natural condition though it need not be completely primeval in character at the time of dedication or an area which has unusual flora, fauna, geological, archeological, scenic, or historical features of scientific or educational value."[^2]
 
-[State Parks List](http://www.iowadnr.gov/Places-to-Go/State-Preserves)
+[State Parks List](https://www.iowadnr.gov/Places-to-Go/State-Parks)
 
 [State Preserves Guide](http://www.iowadnr.gov/portals/idnr/uploads/preserves/preservesguide.pdf?amp;tabid=944) [PDF download] also see [[Iowa DNR](http://www.iowadnr.gov/Places-to-Go/State-Preserves)] [^3]
 
