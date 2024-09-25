@@ -1,6 +1,13 @@
 display_name,stub,dropdown_parent
 Home,/,
-Exhibit Pages,,
-Iowa State Parks Infographic,/iowa-state-parks-infographic.html,Exhibit Pages
-People of Parks Profiles,/people-of-parks-profiles.html,Exhibit Pages
+People,/,
+ISU People,/isu-people.html,People
+People of Parks Profiles,/people-of-parks-profiles.html,People
+State Parks,/,
+Backbone State Park,/backbone-state-park.html,State Parks
+Dolliver Memorial State Park,/dolliver-state-park.html,State Parks
+Ledges State Park,/ledges-state-park.html,State Parks
+Iowa State Parks Infographic,/iowa-state-parks-infographic.html,State Parks
+History,/,
 About,/about.html,
+
