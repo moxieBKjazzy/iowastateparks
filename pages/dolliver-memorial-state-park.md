@@ -1,5 +1,5 @@
 ---
-title: About
+title: Dolliver Memorial State Park
 layout: about
 permalink: /dolliver-memorial-state-park.html
 # include CollectionBuilder info at bottom

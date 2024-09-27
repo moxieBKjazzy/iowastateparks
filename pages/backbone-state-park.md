@@ -1,5 +1,5 @@
 ---
-title: About
+title: Backbone State Park
 layout: about
 permalink: /backbone-state-park.html
 # include CollectionBuilder info at bottom
