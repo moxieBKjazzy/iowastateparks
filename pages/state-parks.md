@@ -1,5 +1,5 @@
 ---
-title: About
+title: State Parks
 layout: about
 permalink: /state-parks.html
 # include CollectionBuilder info at bottom
