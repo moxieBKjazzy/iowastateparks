@@ -10,19 +10,19 @@ credits: true
 
 <div class="card-group">
   <div class="card">
-    <img src="..." class="card-img-top" alt="...">
+    <img src="/objects/people-parks/Pammel-speech.png" class="card-img-top" alt="Black and white photo of Dr. Pammel onside on stage.">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+      <h5 class="card-title"><b>Louis Pammel Speaking at the dedication of Ledges State Park.</b></h5>
+      <p class="card-text text-start"><br><b>Rights:</b> The copyright and related rights status of this Item has been reviewed by the Iowa State University Library, but the Library was unable to make a conclusive determination as to the copyright status of the Item (<a href="http://rightsstatements.org/">Rightsstatements.org</a> UND 1.0). If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the Iowa State University Library Digital Initiatives Program (digital@iastate.edu). The original object is available at the Iowa State University Library Special Collections and University Archives (archives@iastate.edu).
+      <b>Image location:</b>  <a href="http://cdm16001.contentdm.oclc.org/cdm/singleitem/collection/p16001coll36/id/136/rec/57">http://cdm16001.contentdm.oclc.org/cdm/singleitem/collection/p16001coll36/id/136/rec/57</a>
+      </p>
     </div>
   </div>
   <div class="card">
-    <img src="..." class="card-img-top" alt="...">
+    <img src="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" class="card-img-top" alt="Professor Pammel with a Class at Ledges State Park">
     <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+      <h5 class="card-title text-start"><b>Professor Pammel with a Class at Ledges State Park</b></h5>
+      <p class="card-text text-start"><br>Rights: The copyright and related rights status of this Item has been reviewed by the Iowa State University Library, but the Library was unable to make a conclusive determination as to the copyright status of the Item (<a href="http://rightsstatements.org/">Rightsstatements.org</a> UND 1.0). If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the Iowa State University Library Digital Initiatives Program.</p>
     </div>
   </div>
 </div>

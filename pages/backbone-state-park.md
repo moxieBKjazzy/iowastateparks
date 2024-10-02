@@ -8,6 +8,33 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+<div class="card-group">
+  <div class="card">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+</div>
+
 ## Backbone State Park
 
 Backbone State Park is located in Delaware County, southeast of Strawberry Point and northeast of Lamont, with a Dundee address. <a href="https://www.iihr.uiowa.edu/igs/publications/uploads/GSI-061.pdf">The Park’s geology is unique.</a> The Maquoketa River bends around columns of weathered limestone that were missed by ice age glaciers. Diverse plants and trees were and still are a part of the landscape, including white pine, black oak, and ironwood. Locally known at the time as “The Devil’s Backbone,” it had long been used as a picnic spot by area residents.
@@ -17,7 +44,8 @@ Once the <a href="https://archive.org/stream/iowaparksconserv00iowarich#page/7/m
 Originally 1,280 acres, additional land has been added to Backbone over time and today the park covers 2,001 acres. A portion of the park, 186 acres, is designated as a state forest.
 
 <a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/ParkDetails/ParkID/610105">Backbone State Park</a>
-
+<br>
+<br>
 <a href="https://www.iihr.uiowa.edu/igs/publications/uploads/GSI-061.pdf">The Natural History of Backbone State Park</a>
 
 

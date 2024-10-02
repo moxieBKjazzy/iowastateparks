@@ -4,6 +4,33 @@ layout: about
 permalink: /charlotte-king.html
 ---
 
+<div class="card-group">
+  <div class="card">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+</div>
+
 ## Charlotte M. King
 
 Charlotte M. King was a long-time member of the Iowa State staff. She became an artist for the Iowa Experiment Station in 1894, providing illustrations for botany and entomology bulletins and teaching classes in botanical drawing. She then became the seed analyst for the Botany Department's Seed Testing Laboratory from 1906 to 1930. During this time she also taught seed analysis and served as assistant botanist for the Experiment Station. She served as Experiment Station research assistant professor and chair of the Botany Department editing committee from 1930 until her death in 1937. Throughout her career, she collaborated closely with Louis Pammel, and was a joint author of his <a href="https://archive.org/details/weedfloraofiowa01pamm">Weed Flora of Iowa</a> and Honey Plants of Iowa.

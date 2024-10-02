@@ -8,6 +8,34 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
+<div class="card-group">
+  <div class="card">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+  <div class="card">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Card title</h5>
+      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
+    </div>
+  </div>
+</div>
+
+
 ##  Dolliver Memorial State Park
 
 Dolliver Memorial State Park, dedicated in 1925, is one of Iowa's earliest state parks. Located on the banks of the Des Moines River in Webster County near Lehigh, the park contains a variety of flora, fauna, and geologic formations including sandstone bluffs and hardwood forest.
@@ -27,6 +55,12 @@ The tablet was determined to be a hoax due, in part, to the poor Latin grammar. 
 
 Soon after the State Board of Conservation was created in 1917, a number of prominent Fort Dodge residents sent a petition asking that the site be purchased for a park. $10,000 had been raised for the purchase as a memorial to <a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/ParkDetails/ParkID/610107">Jonathan Prentiss Dolliver.</a> The land was purchased from J.B. Black, who became Dolliver Park’s first custodian. Land was donated by J.B. Black and a Mr. Sperry to provide an access road to the park. Later additions have increased the park’s size to 614 acres.
 
+<a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/ParkDetails/ParkID/610107">Dolliver State Park</a>
+<br>
+<br>
+<a href="http://publications.iowa.gov/11303/1/Dolliver_Memorial_State_Park001.pdf">Iowa State Conservation Board, Dolliver Memorial State Park</a>
+<br>
+<br>
 
 
 ***
