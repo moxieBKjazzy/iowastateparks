@@ -2,3 +2,27 @@
     Put your custom SCSS here! 
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
+/* 
+     Bento Box BootStrap Code Below
+*/
+.container-fluid {
+    border-radius: 5px;
+    background-color:#76881d
+}
+.col-md-12 {
+    margin-top: 5px;
+}
+.col-md-3 {
+    margin-top: 5px;
+}
+.col-md-4 {
+    margin-top: 5px;
+}
+.col-md-6 {
+    margin-top: 5px;
+}
+.card-bottom {
+    border-bottom: 10px;
+}
+/*
+*/
