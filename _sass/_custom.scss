@@ -6,26 +6,83 @@
      Bento Box BootStrap Code Below
 */
 .container-fluid {
-    border-radius: 5px;
+    border-radius: 25px;
     background-color:#76881d;
+    border-color:#76881d;
 }
-.col-md-12 {
-    margin-top: 5px;
+.container-bento{
+    height: 100%;
+    border-radius: 25px;
+    background-color: #76881d;
+}
+.card{
+    background-color: #76881d;
+    border-color: transparent;
+}
+.card-head {;
+    border-radius: 15px;
+    border-color:#006ba6;
+    height: 5px;
+    padding-bottom: 10px;
+}
+.card-isp{
+    margin-right: 3px;
+    background-color: #006ba6;
+    text-align: begin;
+    border-radius: 10px;
+}
+.card-isp-2{
+    margin-right: 3px;
+    background-color:#7C2529;
+    text-align: center;
+    border-radius: 10px;
+}
+.card-isp-3{
+    margin-right: 3px;
+    background-color: #B9975B;
+    text-align: end;
+    border-radius: 10px;
+}
+.card-isp-history{
+    margin-right: 3px;
+    border-radius: 10px;
+    height: 400px;
+    background-color:#7A99AC;
+}
+.card-isp-ccc{
+    margin-right: 3px;
+    border-radius: 10px;
+    height: 200px;
+    background-color:#BE531C;
+}
+.card-isp-acres{
+    margin-right: 3px;
+    border-radius: 10px;
+    height: 700px;
+    background-color:#EED484;
 }
 .col-md-3 {
     margin-top: 5px;
+    height: 200%;
+    border: 5px;
+    padding-bottom: 5px;
 }
 .col-md-4 {
     margin-top: 5px;
+    height: 100%;
+    border: 5px;
+    padding-bottom: 5px;
 }
 .col-md-6 {
     margin-top: 5px;
-}
-.card-bottom {
-    border-bottom: 10px;
+    height: 100%;
+    border-radius: 20px;
+    padding-bottom: 5px;
 }
 .isp {
     text-align:center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 /*
 */
