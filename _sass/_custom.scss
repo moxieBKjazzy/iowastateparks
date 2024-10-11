@@ -91,7 +91,8 @@
  * Initialiazing a `footnotes` counter on the wrapper
  */
 article {
-    counter-reset: footnotes;
+    width: 100%
+    counter-reset; footnotes;
 }
 /**
  * Inline footnotes references
@@ -142,4 +143,7 @@ a[aria-describedby="footnote-label"]::after {
 a[aria-describedby="footnote-label"]:focus::after {
     outline: thin dotted;
     outline-offset: 2px;
+}
+a [aria-label="Back to content"] {
+    font-size: 0.8em;
 }
