@@ -8,32 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-<div class="card-group">
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-</div>
+{% include feature/image.html objectid="/Users/lbousson/Documents/GitHub/iowastateparks/objects/state-parks/image-59e7557c53355.png"; caption="Dedication of Dolliver Memorial State Park" alt="Program in landscape layput from the opening of the park with an image of an embossed side portrait of Jonathan Prentiss Dolliver on the left and the order of dedication on the right" %}
 
 ## Dolliver Memorial State Park
 
@@ -43,13 +18,9 @@ When the area became Dolliver Memorial State Park, a box-like canyon of sandston
 
 In the early 1900s, what would eventually be Dolliver Memorial State Park was a part of the J.B. Black farm and was primarily used for recreation. Around 1912, during a family picnic with friends, eleven-year-old Ruth Peterson found a lead tablet inscribed in Latin and dated 1750. The tablet was sent to Edgar Harlan, Curator of the State Archives, who in turn sent it to Archbishop Ireland of St. Paul, Minnesota, for translation.
 
-{% include feature/blockquote.html quote=text %}
-
-{% capture text %}
 ANNO DOMINO MDCCL LOUIS XV REX DUX Earquat et Pater Hennepin feris fugentes decederem fluminus – paseum muttum ad fluminis xxx eves ar in celatus hiemabamus adverta vernis terrarm occupatamus quae seccatur flumine nomine Louis XV.
 
-In the year of our Lord, 1750, in the reign of King Louis XV, General Earquat and Father Hennepin fleeing from the >wild beasts spent the winter concealed in a shelter and at the coming of spring took position in the name of King Louis >XV of the land drained by this river.
-{% endcapture %}
+In the year of our Lord, 1750, in the reign of King Louis XV, General Earquat and Father Hennepin fleeing from the wild beasts spent the winter concealed in a shelter and at the coming of spring took position in the name of King Louis XV of the land drained by this river.
 
 The tablet was determined to be a hoax due, in part, to the poor Latin grammar. Eventually, two Lehigh residents admitted that they had created and buried the tablet as a joke. However, the episode had prompted Edgar Harlan to visit the site. Once he had seen the beauty of the area, he returned several times with his colleague on the Iowa State Board of Conservation, <a href="louis-h-pammel">Louis Pammel.</a>[^1]
 
