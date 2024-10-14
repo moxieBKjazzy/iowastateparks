@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
 featured-image: iowastateparks121
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 26em # the margin from the top your title portion will appear.
+home-title-y-padding: 23em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center # Default is top
 
@@ -89,8 +89,8 @@ bootswatch: # leave blank or comment out for plain bootstrap
 
 # THEME FONTS [optional!]
 base-font-size: 1.2em
-text-color: "#5bc0de"
-link-color: "#5cb85c"
+text-color: "#ACA39A"
+link-color: "#C8102E"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
