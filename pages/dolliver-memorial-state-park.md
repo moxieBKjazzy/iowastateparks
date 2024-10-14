@@ -8,8 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/image.html objectid="/Users/lbousson/Documents/GitHub/iowastateparks/objects/state-parks/image-59e7557c53355.png"; caption="Dedication of Dolliver Memorial State Park" alt="Program in landscape layput from the opening of the park with an image of an embossed side portrait of Jonathan Prentiss Dolliver on the left and the order of dedication on the right" %}
-
 ## Dolliver Memorial State Park
 
 Dolliver Memorial State Park, dedicated in 1925, is one of Iowa's earliest state parks. Located on the banks of the Des Moines River in Webster County near Lehigh, the park contains a variety of flora, fauna, and geologic formations including sandstone bluffs and hardwood forest.
