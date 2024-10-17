@@ -107,7 +107,8 @@
  * Initialiazing a `footnotes` counter on the wrapper
  */
 article {
-    width: 100% counter-reset: footnotes;
+    width: 100%;
+    counter-reset: footnotes;
 }
 
 /**
