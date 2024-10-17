@@ -4,21 +4,15 @@ layout: about
 permalink: /land.html
 ---
 
-<div class="card-group">
-{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-</div>
-
+{% include feature/card.html objectid="/objects/26-05-06_landarchext_0003-005-004a.jpg" width="75" centered="true" %}
+<a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8">View of Reibowermere Meadow Located in</a>
+Backbone State Park[^1]
 
 ## Land
-
-"Enjoyment of what is essentially Iowa is to be found along the side roads, taken in a quiet leisurely way. Here the wild grape and elderberry drop their fruit almost into the wagon tracks, and hawthorn with its red apples colors the scene in the autumn. On the less-frequented lanes the woodchuck and cottontail rabbit venture boldly along the ditches, and the timid yellow warblers and other attractive birds fly through the bushes. Here, too, is the best chance to view the farmer's cornfields and meadows, and to converse with him behind his horses."
-
--Federal Writer's Project of the Works Progress Administration for the State of Iowa, circa 1938.[^1]
+{% include feature/blockquote.html quote="Enjoyment of what is essentially Iowa is to be found along the side roads, taken in a quiet leisurely way. Here the wild grape and elderberry drop their fruit almost into the wagon tracks, and hawthorn with its red apples colors the scene in the autumn. On the less-frequented lanes the woodchuck and cottontail rabbit venture boldly along the ditches, and the timid yellow warblers and other attractive birds fly through the bushes. Here, too, is the best chance to view the farmer's cornfields and meadows, and to converse with him behind his horses." speaker="Federal Writer's Project of the Works Progress Administration for the State of Iowa, circa 1938" %}
 Bordered on the west by the Missouri River and by the Mississippi on the east, shaped by glaciers and later humans, Iowa's land and landscape has its own unique variety to it. Grasslands, forests, and savannas dot Iowa's landscape - although more so in the past than in the present. The landscape of Iowa has changed significantly from just a century and a half ago, altered by a significantly increasing population and a rising use of intensive agriculture. Humans have lived in what is now Iowa for at least 13,000 years.[^2] After the forced removal of Iowa's native peoples in the mid 1800s, Euroamericans dominated the human population. They brought significant changes to Iowa's landscape, but the work of concerned citizens beginning in the latter part of the 19th century helped sustain portions of Iowa's natural areas in the form of parks and preserves. This section briefly describes Iowa's physical environments, and their connection to state parks.
 
-## Land
+## <em>Land</em>
 
 Iowa’s land has been heavily shaped by glaciers, resulting in plains, rolling hills, river valleys, exposed bedrock, soil and rock deposits, and prairie “potholes” that resulted from large chunks of ice that remained after the glaciers moved on. State parks preserve some of the best geologic formations in the state.
 
@@ -67,11 +61,12 @@ In 1975, as the Saylorville Reservoir project was nearing completion, concerned 
 
 ---
 
-[^1]: Federal Writers’ Project of the Works Progress Administration for the State of Iowa, Iowa, a Guide to the Hawkeye State(New York: Viking Press, c1938), 121. <a href="http://archive.org/details/iowaguidetohawke00federich">http://archive.org/details/iowaguidetohawke00federich</a>
+[^1]: <b>Rights:</b> This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located. If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the Iowa State University Library Digital Initiatives Program (digital@iastate.edu). (Rightsstatements.org InC-RUU 1.0). The original object is available at the Iowa State University Library Special Collections and University Archives (archives@iastate.edu).
+[^2]: Federal Writers’ Project of the Works Progress Administration for the State of Iowa, Iowa, a Guide to the Hawkeye State(New York: Viking Press, c1938), 121. <a href="http://archive.org/details/iowaguidetohawke00federich">http://archive.org/details/iowaguidetohawke00federich</a>
 [^2]: Cornelia F. Mutel, The Emerald Horizon The History of Nature in Iowa, (Iowa City: University of Iowa Press, 2008), 8.
 [^3]: Oldest exposed bedrock in Iowa <a href="http://siouxquartzite.com/listing/gitchie-manitou-state-preserve/">http://siouxquartzite.com/listing/gitchie-manitou-state-preserve/</a>
 [^4]: "Rock on: Iowa's Geologic Record," Iowa State University Alumni Association (blog), posted November 8, 2017, accessed September 25, 2017, <a href="https://isualumblog.wordpress.com/2016/11/08/rock-on-iowas-geologic-record/">https://isualumblog.wordpress.com/2016/11/08/rock-on-iowas-geologic-record/</a>
 [^5]: Vandersee, Megan, Geological and Historical Connections, Geological Resources of Iowa Workshop, 2015, accessed September 27, 2017 <a href="http://www.exploreiowageology.org/assets/text/GeologyofIowa4Teachers/2015/Projects/MeganVandersee.pdf">http://www.exploreiowageology.org/assets/text/GeologyofIowa4Teachers/2015/Projects/MeganVandersee.pdf.</a>
 [^6]: Wayne I. Anderson, Iowa's Geological Past: Three Billion Years of Change(Iowa City: University of Iowa Press, 1998), 118.
 [^7]: Iowa Highway Commission, Report of the State Highway Commission on the Iowa Lakes and Lake Beds J.W. Holden, Chairman.(Des Moines: State of Iowa, 1917), 1-250.
-[^8]: Chapter 236. S. F. 328. Available at: <a href="http://ir.uiowa.edu/annals-of-iowa/vol13/iss1/21">http://ir.uiowa.edu/annals-of-iowa/vol13/iss1/21</a>
+[^8]: Chapter 236. S. F. 328. 

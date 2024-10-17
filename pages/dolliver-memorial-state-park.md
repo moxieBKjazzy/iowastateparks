@@ -1,12 +1,19 @@
 ---
 title: Dolliver Memorial State Park
 layout: about
-permalink: /dolliver-memorial-state-park.md
+permalink: /dolliver-memorial-state-park.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+
+{% include feature/card.html objectid="/objects/13-05-13_pammel_0049-002-020-02.jpg" centered="true" %}
+<div class=capt1>Dedication of Dolliver Memorial State Park
+<br>
+<a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/36/rec/50">Image location</a>
+</div>
+
 
 ## Dolliver Memorial State Park
 
