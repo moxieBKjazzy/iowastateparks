@@ -5,30 +5,9 @@ permalink: /establishment.html
 ---
 
 <div class="card-group">
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
-      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
-  <div class="card">
-    <img src="..." class="card-img-top" alt="...">
-    <div class="card-body">
-      <h5 class="card-title">Card title</h5>
-      <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
-      <p class="card-text"><small class="text-body-secondary">Last updated 3 mins ago</small></p>
-    </div>
-  </div>
+{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
+{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
+{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
 </div>
 
 ## Establishment
@@ -56,7 +35,7 @@ The work of the CCC within Iowa was impressive. In less than a decade, "By the t
 
 For more information on the CCC:
 <a href="http://www.lib.uiowa.edu/scua/bai/conard.htm">The Legacy of Hope from an Era of Despair: The CCC and Iowa State Parks</a>
-<a href-"http://www.iowadnr.gov/Places-to-Go/State-Parks/The-CCC-Legacy">The CCC Legacy</a>
+<a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/The-CCC-Legacy">The CCC Legacy</a>
 <a href="https://dds.crl.edu/crldelivery/14973">CCC Camp newsletters.</a>
 
 ---
