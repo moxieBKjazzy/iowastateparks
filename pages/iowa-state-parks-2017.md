@@ -37,7 +37,7 @@ Iowa's State Preserves Act of 1965 provides a strict form of protection to natur
 
 [State Parks List] (https://www.iowadnr.gov/Places-to-Go/State-Parks)
 
-[State Preserves Guide](http://www.iowadnr.gov/portals/idnr/uploads/preserves/preservesguide.pdf?amp;tabid=944) [PDF download] also see [Iowa DNR](http://www.iowadnr.gov/Places-to-Go/State-Preserves)] [^3]
+[State Preserves Guide](http://www.iowadnr.gov/portals/idnr/uploads/preserves/preservesguide.pdf?amp;tabid=944) [PDF download] also see [[Iowa DNR](http://www.iowadnr.gov/Places-to-Go/State-Preserves)] [^3]
 
 
 
