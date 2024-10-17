@@ -8,6 +8,7 @@
 .container-fluid {
     border-radius: 25px;
     background-color: black;
+    border-color: black;
 }
 
 .container-bento {
@@ -106,8 +107,7 @@
  * Initialiazing a `footnotes` counter on the wrapper
  */
 article {
-    width: 100% counter-reset;
-    footnotes;
+    width: 100% counter-reset: footnotes;
 }
 
 /**
