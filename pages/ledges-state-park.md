@@ -31,6 +31,13 @@ In the 1930s, the <a href="https://exhibits.lib.iastate.edu/iowa-state-parks/his
 <a href="https://www.iihr.uiowa.edu/igs/publications/uploads/GSI-048.pdf">Natural History of Ledges State Park</a>
 
 <br>
-<br>
 
-### <a href="/backbone-state-park.html">Backbone State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; Ledges State Park
+### <a href="backbone-state-park.html">Backbone State Park</a> 
+### <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a>
+### Ledges State Park
+
+## <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; Parks &nbsp; &nbsp;| &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+
+
+<br>
+<br>

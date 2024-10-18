@@ -28,10 +28,13 @@ Originally 1,280 acres, additional land has been added to Backbone over time and
 <br>
 <a href="https://www.iihr.uiowa.edu/igs/publications/uploads/GSI-061.pdf">The Natural History of Backbone State Park</a>
 
-<br>
+
 <br>
 
-### Backbone State Park &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/ledges-state-park.html">Ledges State Park</a>
+### Backbone State Park
+### <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a>
+### <a href="/ledges-state-park.html">Ledges State Park</a>
+<br>
 
 ### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="state-parks-overview.html">Parks</a> &nbsp; &nbsp;| &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 
