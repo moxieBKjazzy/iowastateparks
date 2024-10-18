@@ -6,8 +6,8 @@ permalink: /isu-people.html
 
 <div class="card-group">
 {% include feature/card.html text="Charles Curtiss Chopping a Tree" objectid="objects/9-01-a_curtiss_0524-002-005.jpg" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
+{% include feature/card.html text="John R. Fitzsimmons" objectid="objects/26-05-a_fitzsimmons_2102-001-001a.jpg" %}
+{% include feature/card.html text="Ada Hayden Standing in a Field" objectid="objects/13-05-55_hayden_0004-002-001.jpg" %}
 </div>
 
 
