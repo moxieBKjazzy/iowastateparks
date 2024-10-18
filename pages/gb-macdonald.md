@@ -4,12 +4,7 @@ layout: about
 permalink: /gb-macdonald.html
 ---
 
-<div class="card-group">
-{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-</div>
-
+{% include feature/card.html text="Professor G. B. MacDonald" objectid="/objects/09-14-a_macdonald_0720-005-001a.jpg" width="25" centered="true" %}
 
 ## Gilmour Byers (G.B.) MacDonald
 

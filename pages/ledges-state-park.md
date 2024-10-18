@@ -25,7 +25,7 @@ Approximately 160,000 people visited the park during its first three years: from
 
 In the 1930s, the <a href="https://exhibits.lib.iastate.edu/iowa-state-parks/history/establishment#CCC">Civilian Conservation Corps</a> constructed several structures from native timber and field stone. These can still be seen, and include a stone arch bridge, the Oak Woods and Lower Ledges Shelters, and stone trail steps.
 
-<a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/ParkDetails/ParkID/610148">Ledges State Park</a>
+<a href="https://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/Ledges-State-Park">Ledges State Park</a>
 <br>
 <br>
 <a href="https://www.iihr.uiowa.edu/igs/publications/uploads/GSI-048.pdf">Natural History of Ledges State Park</a>

@@ -4,13 +4,7 @@ layout: about
 permalink: /charles-f-curtiss.html
 ---
 
-
-<div class="card-group">
-{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-</div>
-
+{% include feature/card.html text="Charles Curtiss Chopping a Tree" objectid="objects/9-01-a_curtiss_0524-002-005.jpg" width="25" centered="true" %}
 
 ## Charles F Curtiss
 
