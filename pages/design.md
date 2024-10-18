@@ -34,7 +34,18 @@ Beginning in 1933, the<a href="establishment#CCC">Civilian Conservation Corps</a
  
 
 The park’s bathing area, picnicking, hiking and camping area and Richmond Springs are listed on the National Register of Historic Places as the <a href="https://npgallery.nps.gov/NRHP/AssetDetail?assetID=ffdfee33-0d9b-4007-b027-e974145bd21f">Backbone State Park Historic District.</a>
+<br>
+<br>
 
-<span></span><span></span><span></span><br><a href="Establishment">Establishment</a> <br> <a href="land.html">Land</a> <br>Design
+### <a href="Establishment">Establishment</a> 
+
+### <a href="Land">Land</a>
+
+### Design
+<br>
+<br>
+
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+
 <br>
 <br>

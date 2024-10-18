@@ -37,8 +37,14 @@ For more information on the CCC:
 <a href="http://www.lib.uiowa.edu/scua/bai/conard.htm">The Legacy of Hope from an Era of Despair: The CCC and Iowa State Parks</a>
 <a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/The-CCC-Legacy">The CCC Legacy</a>
 <a href="https://dds.crl.edu/crldelivery/14973">CCC Camp newsletters.</a>
+<br>
+<br>
 
-<span></span><span></span><span></span><br>Establishment<br> <a href="land.html">Land</a> <br> <a href="design.html">Design</a>
+### Establishment
+
+### <a href="Land">Land</a>
+
+### <a href="design.html">Design</a>
 <br>
 <br>
 
@@ -46,6 +52,7 @@ For more information on the CCC:
 
 <br>
 <br>
+
 
 ---
 

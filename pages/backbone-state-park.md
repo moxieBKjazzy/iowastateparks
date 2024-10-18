@@ -31,8 +31,13 @@ Originally 1,280 acres, additional land has been added to Backbone over time and
 <br>
 <br>
 
-### <a href="/backbone-state-park.html">Backbone State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/ledges-state-park.html">Ledges State Park</a>
+### Backbone State Park &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/ledges-state-park.html">Ledges State Park</a>
 
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="state-parks-overview.html">Parks</a> &nbsp; &nbsp;| &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+
+
+<br>
+<br>
 
 
 ***
