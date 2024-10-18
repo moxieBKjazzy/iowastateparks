@@ -12,10 +12,12 @@ credits: true
 <br>
 <br>
 
+
+{% include feature/card.html text="Rock Grove Forks, Backbone State Park, Iowa" objectid="/objects/26-05-06_landarchext_0003-005-002a.jpg" %}
 <div class="card-group">
-{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
+{% include feature/card.html text="Preliminary Plan for the General Layout of Dolliver Memorial State Park" objectid="/objects/26-05-06_extensionla_tube-073-002.jpg" %}
+{% include feature/card.html text="Tents at Camp Cladonia at Ledges Park" objectid="/objects/04-08-l_offcampus_0377-013-002a.jpg" width="25" %}
+{% include feature/card.html text="Iowa State Parks in 2017" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
 </div>
 
 
