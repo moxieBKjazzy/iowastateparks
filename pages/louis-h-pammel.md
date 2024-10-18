@@ -36,6 +36,26 @@ Pammel would serve on the Iowa State Board of Conservation for nine years (1918-
 
 <a href="http://archives.lib.iastate.edu/sites/default/files/documents/finding-aids-RS/13-05-13.pdf">Louis Pammel finding aid</a>.
 
+<br>
+<br>
+
+### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
+
+<br>
+<br>
+<div>
+&nbsp; <a href="/charles-f-curtiss.html">Charles F. Curtiss</a> 
+&nbsp;| <a href="/john-r-fitzsimmons.html">John R. Fitzsimmons</a>
+&nbsp;| <a href="/ada-hayden.html">Ada Hayden</a> 
+&nbsp;| <a href="/charlotte-king.html">Charlotte King</a> 
+&nbsp;| <a href="/gb-macdonald.html">G.B. MacDonald</a> 
+&nbsp;| Louis H. Pammel
+&nbsp;| <a href="/raymond-a-pearson.html">Raymond A. Pearson</a>
+</div>
+<br>
+<br>
+<br>
+
 
 
 ***

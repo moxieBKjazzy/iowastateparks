@@ -17,6 +17,14 @@ credits: true
 Numerous people and organizations worked to bring Iowa's 1917 state park act into being, including faculty, staff and administrators at Iowa State. Individuals within the state parks movement worked through a variety of organizations, such as the Iowa Academy of Science, Iowa Park and Forestry Association (later the Iowa Conservation Association), and the Iowa Federation of Women's Clubs.
 
 <br>
+<br>
+
+### <a href="/people.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks.html">Parks</a> | &nbsp; &nbsp; <a href="/history.html">History</a>
+
+### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
+
+<br>
+<br>
 <div>
 &nbsp; <a href="/charles-f-curtiss.html">Charles F. Curtiss</a> 
 &nbsp;| <a href="/john-r-fitzsimmons.html">John R. Fitzsimmons</a>
@@ -29,6 +37,7 @@ Numerous people and organizations worked to bring Iowa's 1917 state park act int
 <br>
 <br>
 <br>
+
 
 ***
 
