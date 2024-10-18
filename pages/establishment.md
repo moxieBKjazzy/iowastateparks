@@ -38,11 +38,11 @@ For more information on the CCC:
 <a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/The-CCC-Legacy">The CCC Legacy</a>
 <a href="https://dds.crl.edu/crldelivery/14973">CCC Camp newsletters.</a>
 
-<span></span><span></span><span></span><br>Establishment</a> <br> <a href="land.html">Land</a> <br> <a href="design.html">Design</a>
+<span></span><span></span><span></span><br>Establishment<br> <a href="land.html">Land</a> <br> <a href="design.html">Design</a>
 <br>
 <br>
 
-### <a href="/people.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks.html">Parks</a> | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 
 <br>
 <br>

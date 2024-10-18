@@ -21,7 +21,7 @@ The history section of this website contains information on the establishment of
 <br>
 <br>
 
-### <a href="/people.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks.html">Parks</a> | &nbsp; &nbsp; History
+### <a href="/people.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks.html">Parks</a>  &nbsp; &nbsp;| &nbsp; &nbsp; History
 
 <br>
 <br>

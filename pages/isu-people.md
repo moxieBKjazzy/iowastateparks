@@ -29,6 +29,7 @@ Iowa State individuals who aided the state park movement include president <a hr
 ### ISU People &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
 
 <br>
+<br>
 <div>
 &nbsp; <a href="/charles-f-curtiss.html">Charles F. Curtiss</a> 
 &nbsp;| <a href="/john-r-fitzsimmons.html">John R. Fitzsimmons</a>
