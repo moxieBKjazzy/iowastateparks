@@ -38,8 +38,6 @@ Numerous people and organizations worked to bring Iowa's 1917 state park act int
 <br>
 <br>
 ***
-### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
-
-***
-
+<div>
 <b>Image rights:</b> The copyright and related rights status of the item at the top have been reviewed by the Iowa State University Library, but the Library was unable to make a conclusive determination as to the copyright status of the Item (<a href="http://rightsstatements.org/">Rightsstatements.org</a> UND 1.0). If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the Iowa State University Library Digital Initiatives Program (digital@iastate.edu). The original object is available at the Iowa State University Library Special Collections and University Archives (archives@iastate.edu).<b>Image location:</b> <a href="http://cdm16001.contentdm.oclc.org/cdm/singleitem/collection/p16001coll36/id/136/rec/57">Image on the left</a>
+</div>
