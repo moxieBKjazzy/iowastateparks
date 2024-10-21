@@ -9,7 +9,7 @@ credits: true
 ---
 
 {% include feature/card.html objectid="/objects/13-05-13_pammel_0049-002-020-02.jpg" width="50" centered="true" %}
-<div class=capt1>Dedication of Dolliver Memorial State Park
+Dedication of Dolliver Memorial State Park[^1]
 <br>
 <a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/36/rec/50">Image location</a>
 </div>
@@ -36,16 +36,18 @@ Soon after the State Board of Conservation was created in 1917, a number of prom
 
 
 <br>
+## <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; Parks &nbsp; &nbsp;| &nbsp; &nbsp; <a href="/history-overview.html">History</a>r>
 
 ### <a href="/backbone-state-park.html">Backbone State Park</a> 
 ### Dolliver Memorial State Park
 ### <a href="/ledges-state-park.html">Ledges State Park</a>
 
-## <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; Parks &nbsp; &nbsp;| &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+
 
 
 <br>
 <br>
 
 ***
-[^1]: “The Natural History of Dolliver Memorial State Park, Webster County, Iowa,” edited by Raymond R. Anderson and Chad L. Fields, Guidebook 81 (Iowa City: Iowa Department of Natural Resources Geological Survey Bureau, 2007), 58. Available online: <a href="http://s-iihr34.iihr.uiowa.edu/publications/uploads/GSI-081.pdf">http://s-iihr34.iihr.uiowa.edu/publications/uploads/GSI-081.pdf</a>.
+[^1]: 
+[^2]: “The Natural History of Dolliver Memorial State Park, Webster County, Iowa,” edited by Raymond R. Anderson and Chad L. Fields, Guidebook 81 (Iowa City: Iowa Department of Natural Resources Geological Survey Bureau, 2007), 58. Available online: <a href="http://s-iihr34.iihr.uiowa.edu/publications/uploads/GSI-081.pdf">http://s-iihr34.iihr.uiowa.edu/publications/uploads/GSI-081.pdf</a>.
