@@ -5,7 +5,9 @@ permalink: /land.html
 ---
 
 {% include feature/card.html objectid="/objects/26-05-06_landarchext_0003-005-004a.jpg" width="75" centered="true" %}
+<div>
 <a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8">View of Reibowermere Meadow</a>
+</div>
  Located in Backbone State Park[^1]
 
 ## Land
@@ -69,7 +71,7 @@ In 1975, as the Saylorville Reservoir project was nearing completion, concerned 
 ### <a href="design.html">Design</a>
 <br>
 <br>
-
+***
 ### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 
 <br>
