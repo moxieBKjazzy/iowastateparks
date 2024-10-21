@@ -5,8 +5,8 @@ permalink: /land.html
 ---
 
 {% include feature/card.html objectid="/objects/26-05-06_landarchext_0003-005-004a.jpg" width="75" centered="true" %}
-<a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8">View of Reibowermere Meadow Located in</a>
-Backbone State Park[^1]
+<a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8">View of Reibowermere Meadow</a>
+ Located in Backbone State Park[^1]
 
 ## Land
 {% include feature/blockquote.html quote="Enjoyment of what is essentially Iowa is to be found along the side roads, taken in a quiet leisurely way. Here the wild grape and elderberry drop their fruit almost into the wagon tracks, and hawthorn with its red apples colors the scene in the autumn. On the less-frequented lanes the woodchuck and cottontail rabbit venture boldly along the ditches, and the timid yellow warblers and other attractive birds fly through the bushes. Here, too, is the best chance to view the farmer's cornfields and meadows, and to converse with him behind his horses." speaker="Federal Writer's Project of the Works Progress Administration for the State of Iowa, circa 1938" %}
