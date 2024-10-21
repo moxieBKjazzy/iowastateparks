@@ -55,6 +55,8 @@ Pammel would serve on the Iowa State Board of Conservation for nine years (1918-
 <br>
 <br>
 <br>
+***
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 
 
 
