@@ -5,10 +5,7 @@ permalink: /land.html
 ---
 
 {% include feature/card.html objectid="/objects/26-05-06_landarchext_0003-005-004a.jpg" width="75" centered="true" %}
-<div>
-<a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8">View of Reibowermere Meadow</a>
-</div>
- Located in Backbone State Park[^1]
+View of Reibowermere Meadow Located in Backbone State Park[^1]
 
 ## Land
 {% include feature/blockquote.html quote="Enjoyment of what is essentially Iowa is to be found along the side roads, taken in a quiet leisurely way. Here the wild grape and elderberry drop their fruit almost into the wagon tracks, and hawthorn with its red apples colors the scene in the autumn. On the less-frequented lanes the woodchuck and cottontail rabbit venture boldly along the ditches, and the timid yellow warblers and other attractive birds fly through the bushes. Here, too, is the best chance to view the farmer's cornfields and meadows, and to converse with him behind his horses." speaker="Federal Writer's Project of the Works Progress Administration for the State of Iowa, circa 1938" %}
@@ -65,9 +62,9 @@ In 1975, as the Saylorville Reservoir project was nearing completion, concerned 
 <br>
 
 ***
-### Establishment
+### <a href="Establishment">Establishment</a>
 
-### <a href="Land">Land</a>
+### Land
 
 ### <a href="design.html">Design</a>
 <br>
@@ -81,7 +78,7 @@ In 1975, as the Saylorville Reservoir project was nearing completion, concerned 
 
 ---
 
-[^1]: <b>Rights:</b> This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located. If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the Iowa State University Library Digital Initiatives Program (digital@iastate.edu). (Rightsstatements.org InC-RUU 1.0). The original object is available at the Iowa State University Library Special Collections and University Archives (archives@iastate.edu).
+[^1]: <a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8"> Reibowermere Meadow Located in Backbone State Park</a> <b>Rights:</b> This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located. If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the Iowa State University Library Digital Initiatives Program (digital@iastate.edu). (Rightsstatements.org InC-RUU 1.0). The original object is available at the Iowa State University Library Special Collections and University Archives (archives@iastate.edu).
 [^2]: Federal Writers’ Project of the Works Progress Administration for the State of Iowa, Iowa, a Guide to the Hawkeye State(New York: Viking Press, c1938), 121. <a href="http://archive.org/details/iowaguidetohawke00federich">http://archive.org/details/iowaguidetohawke00federich</a>
 [^2]: Cornelia F. Mutel, The Emerald Horizon The History of Nature in Iowa, (Iowa City: University of Iowa Press, 2008), 8.
 [^3]: Oldest exposed bedrock in Iowa <a href="http://siouxquartzite.com/listing/gitchie-manitou-state-preserve/">http://siouxquartzite.com/listing/gitchie-manitou-state-preserve/</a>
