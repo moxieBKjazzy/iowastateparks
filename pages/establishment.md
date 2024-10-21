@@ -8,7 +8,7 @@ permalink: /establishment.html
 Landscape Development Plan for Ledges State Park [^1]
 
 ## Establishment
-{% include feature/blockquote.html quote="“But in 1919 there were not ten acres of public woods, water landings or open prairies, in the state, unless in cities. Not a game could be played, a shot fired, a race run, a fly cast or a lunch spread, unless in cities or on dusty highways unless the enjoyment was a trespass or was through the consent of private owners.”" speaker="Edgar R. Harlan [^2]"  %}
+{% include feature/blockquote.html quote="“But in 1919 there were not ten acres of public woods, water landings or open prairies, in the state, unless in cities. Not a game could be played, a shot fired, a race run, a fly cast or a lunch spread, unless in cities or on dusty highways unless the enjoyment was a trespass or was through the consent of private owners.” " speaker="Edgar R. Harlan[^2]" %[^2]}
 
 
 - 
@@ -58,6 +58,7 @@ For more information on the CCC:
 ---
 
 [^1]: <a href="http://cdm16001.contentdm.oclc.org/cdm/singleitem/collection/p16001coll36/id/125/rec/62">Landscape Development Plan for Ledges State Park</a> <b>Rights</b>: The copyright and related rights status of this Item has been reviewed by the Iowa State University Library, but the Library was unable to make a conclusive determination as to the copyright status of the Item (Rightsstatements.org UND 1.0). If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the Iowa State University Library Digital Initiatives Program (digital@iastate.edu). The original object is available at the Iowa State University Library Special Collections and University Archives (archives@iastate.edu).
-[^2]: Harlan, Edgar R., Introduction to Iowa Parks: Conservation of Iowa Historic, Scenic and Scientific Areas, Report of the State Board of Conservation (Des Moines: State of Iowa, 1919).
-[^3]: Conard, Rebecca. "The Legacy of Hope from an Era of Despair: The CCC and Iowa State Parks." The University of Iowa Libraries Special Collections & University Archives. Accessed 9/8/2017. http://www.lib.uiowa.edu/scua/bai/conard.htm
+[^2]: Federal Writers’ Project of the Works Progress Administration for the State of Iowa, Iowa, a Guide to the Hawkeye State(New York: Viking Press, c1938), 121. http://archive.org/details/iowaguidetohawke00federich
+[^3]: Harlan, Edgar R., Introduction to Iowa Parks: Conservation of Iowa Historic, Scenic and Scientific Areas, Report of the State Board of Conservation (Des Moines: State of Iowa, 1919).
 [^4]: Conard, Rebecca. "The Legacy of Hope from an Era of Despair: The CCC and Iowa State Parks." The University of Iowa Libraries Special Collections & University Archives. Accessed 9/8/2017. http://www.lib.uiowa.edu/scua/bai/conard.htm
+[^5]: Conard, Rebecca. "The Legacy of Hope from an Era of Despair: The CCC and Iowa State Parks." The University of Iowa Libraries Special Collections & University Archives. Accessed 9/8/2017. http://www.lib.uiowa.edu/scua/bai/conard.htm
