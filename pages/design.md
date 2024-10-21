@@ -6,7 +6,7 @@ permalink: /design.html
 
 
 {% include feature/card.html objectid="objects/26-05-06_extensionla_c405-d14-f002-004.jpg" width="50" centered="true" %}
-Sketch Plan of Shelter House For State Parks[^1]
+&nbsp;&nbsp;Sketch Plan of Shelter House For State Parks[^1]
 
 ## Design
 
@@ -20,7 +20,7 @@ Fitzsimmons was concerned with returning land that had been altered by livestock
 
 ## _Backbone_
 
-Beginning in 1933, the<a href="establishment#CCC">Civilian Conservation Corps</a> further developed the park with overnight cabins, picnic, hiking and camping facilities, and reconstructed the trout hatchery. A dam across the Maquoketa River, originally built to power a mill, was replaced by a concrete dam, creating a lake. The stone pavilion overlooking the lake is considered one of the best surviving examples of state park architecture from this time period. <a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/ParkDetails/ParkID/610105">Backbone</a> has the largest concentration of Civilian Conservation Corps work to be found in a single park.
+Beginning in 1933, the <a href="establishment#CCC">Civilian Conservation Corps</a> further developed the park with overnight cabins, picnic, hiking and camping facilities, and reconstructed the trout hatchery. A dam across the Maquoketa River, originally built to power a mill, was replaced by a concrete dam, creating a lake. The stone pavilion overlooking the lake is considered one of the best surviving examples of state park architecture from this time period. <a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/ParkDetails/ParkID/610105">Backbone</a> has the largest concentration of Civilian Conservation Corps work to be found in a single park.
 
 The park’s bathing area, picnicking, hiking and camping area and Richmond Springs are listed on the National Register of Historic Places as the <a href="https://npgallery.nps.gov/NRHP/AssetDetail?assetID=ffdfee33-0d9b-4007-b027-e974145bd21f">Backbone State Park Historic District.</a>
 <br>
