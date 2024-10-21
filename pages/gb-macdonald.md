@@ -19,6 +19,7 @@ His work within Iowa’s state parks movement included: assisting with the 1915-
 
 ### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
 
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 <br>
 <br>
 <div>
