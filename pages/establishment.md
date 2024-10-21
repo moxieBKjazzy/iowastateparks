@@ -7,7 +7,9 @@ permalink: /establishment.html
 
 
 {% include feature/card.html header="Landscape Development Plan for Ledges State Park" objectid="26-05-06_extensionla_c405-d14-f001-003.jpg" %}
+<div>
 <a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8">Image location</a>
+</div>
 
 
 ## Establishment
