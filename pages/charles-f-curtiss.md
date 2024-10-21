@@ -14,6 +14,7 @@ Charles F. Curtiss (Dean of Agriculture, 1900-1933) was a member of the special 
 
 <br>
 <br>
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 
 ### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
 
