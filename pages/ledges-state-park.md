@@ -41,3 +41,5 @@ In the 1930s, the <a href="https://exhibits.lib.iastate.edu/iowa-state-parks/his
 
 <br>
 <br>
+***
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
