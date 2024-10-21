@@ -64,19 +64,19 @@ In 1975, as the Saylorville Reservoir project was nearing completion, concerned 
 <br>
 <br>
 
-### <a href="Establishment">Establishment</a> 
+***
+### Establishment
 
-### Land
+### <a href="Land">Land</a>
 
 ### <a href="design.html">Design</a>
 <br>
 <br>
-***
+
 ### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 
 <br>
 <br>
-
 
 
 ---
