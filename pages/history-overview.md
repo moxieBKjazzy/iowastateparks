@@ -5,11 +5,7 @@ permalink: /history-overview.html
 ---
 
 
-<div class="card-group">
-{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-</div>
+{% include feature/timelinejs.html %}
 
 ## History
 
