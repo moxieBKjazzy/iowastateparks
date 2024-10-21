@@ -37,7 +37,8 @@ Numerous people and organizations worked to bring Iowa's 1917 state park act int
 <br>
 <br>
 <br>
-
+***
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 
 ***
 
