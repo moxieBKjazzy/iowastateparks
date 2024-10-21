@@ -4,11 +4,11 @@ layout: about
 permalink: /establishment.html
 ---
 
-<div class="card-group">
-{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-</div>
+
+
+{% include feature/card.html header="Landscape Development Plan for Ledges State Park" [Image location](//cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8) objectid="26-05-06_extensionla_c405-d14-f001-003.jpg" %}
+<a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8">Image location</a>
+
 
 ## Establishment
 
@@ -34,12 +34,16 @@ Iowa State played an important role in CCC work in state parks. State forester a
 The work of the CCC within Iowa was impressive. In less than a decade, "By the time the CCC ended in 1942, the number of CCC enrollees in Iowa camps would total nearly 46,000. They would contribute to the development of more than eighty state parks, and leave a tangible legacy that still numbers more than seven hundred state park structures."[^3]
 
 For more information on the CCC:
+<br>
 <a href="http://www.lib.uiowa.edu/scua/bai/conard.htm">The Legacy of Hope from an Era of Despair: The CCC and Iowa State Parks</a>
+<br>
 <a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/The-CCC-Legacy">The CCC Legacy</a>
+<br>
 <a href="https://dds.crl.edu/crldelivery/14973">CCC Camp newsletters.</a>
 <br>
 <br>
 
+***
 ### Establishment
 
 ### <a href="Land">Land</a>
