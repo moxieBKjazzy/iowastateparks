@@ -9,9 +9,15 @@ credits: true
 ---
 
 <div class="card-group">
+   <div card>
 {% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
+   </div>
+        <div card>
 {% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
+        </div>
+            <div card>
 {% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
+            </div>
 </div>
 
 
