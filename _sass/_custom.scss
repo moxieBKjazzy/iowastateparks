@@ -179,3 +179,9 @@ a [aria-label="Back to content"] {
 .land-link{
     text-align: center;
 }
+/* to make all cards the same size in a group */
+.card-group{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+}
