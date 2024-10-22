@@ -12,8 +12,6 @@ credits: true
 Dedication of Dolliver Memorial State Park[^1]
 <br>
 <a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/36/rec/50">Image location</a>
-</div>
-
 
 ## Dolliver Memorial State Park
 
