@@ -1,11 +1,11 @@
 ---
 title: Design
-layout: about
+layout: page
 permalink: /design.html
 ---
 
 
-{% include feature/card.html objectid="objects/26-05-06_extensionla_c405-d14-f002-004.jpg" width="50" centered="true" %}
+{% include feature/card.html objectid="objects/26-05-06_extensionla_c405-d14-f002-004.jpg" width="75" centered="true" %}
 &nbsp;&nbsp;Sketch Plan of Shelter House For State Parks[^1]
 
 ## Design
@@ -27,6 +27,7 @@ The park’s bathing area, picnicking, hiking and camping area and Richmond Spri
 <br>
 
 ***
+
 ### <a href="Establishment">Establishment</a>
 
 ### <a href="Land">Land</a>
@@ -36,10 +37,8 @@ The park’s bathing area, picnicking, hiking and camping area and Richmond Spri
 <br>
 
 ### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
-
 <br>
 <br>
-
 
 ---
 [^1]: <a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8">Sketch Plan of Shelter House For State Parks</a> __Rights__: This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located. If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the Iowa State University Library Digital Initiatives Program (digital@iastate.edu). (Rightsstatements.org InC-RUU 1.0). The original object is available at the Iowa State University Library Special Collections and University Archives (archives@iastate.edu).
