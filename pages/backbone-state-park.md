@@ -1,6 +1,6 @@
 ---
 title: Backbone State Park
-layout: about
+layout: page
 permalink: /backbone-state-park.html
 # include CollectionBuilder info at bottom
 credits: true
@@ -9,15 +9,14 @@ credits: true
 ---
 
 <div class="card-group">
-   <div card>
-{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
+{% include feature/card.html text="Photograph of the Backbone State Park" objectid="/objects/26-05-06_landarchext_0003-005-003a.jpg" %}
+{% include feature/card.html text="View of Reibowermere Meadow in Backbone State Park" objectid="/objects/26-05-06_landarchext_0003-005-004a.jpg" %}
    </div>
-        <div card>
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-        </div>
-            <div card>
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-            </div>
+
+<div class="card-group">
+{% include feature/card.html text="The Narrow Point on Backbone State Park" objectid="/objects/26-05-06_landarchext_0003-005-001a.jpg" %}
+{% include feature/card.html text="General Plan for the Development of Backbone State Park" objectid="/objects/13-05-13_pammel_tube-073-001.jpg" %}
+{% include feature/card.html text="Backbone State Park" objectid="/objects/26-05-06_extensionla_0005-025-001a.jpg" %}
 </div>
 
 
@@ -40,6 +39,7 @@ Originally 1,280 acres, additional land has been added to Backbone over time and
 ### Backbone State Park
 ### <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a>
 ### <a href="/ledges-state-park.html">Ledges State Park</a>
+<br>
 <br>
 
 ### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="state-parks-overview.html">Parks</a> &nbsp; &nbsp;| &nbsp; &nbsp; <a href="/history-overview.html">History</a>
