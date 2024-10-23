@@ -1,6 +1,6 @@
 ---
 title: Louis H Pammel
-layout: about
+layout: page
 permalink: /louis-h-pammel.html
 ---
 
@@ -12,6 +12,8 @@ permalink: /louis-h-pammel.html
 
 
 ##  Louis H Pammel
+<br>
+<br>
 
 {% include feature/blockquote.html quote="“It is to him that we are indebted for our splendid state parks, more than to all others, and no man will have a greater monument when he has passed.”" source="Allison Tribune, June 12, 1929" %}
  
@@ -33,16 +35,13 @@ Pammel hit the ground running as president of the board, working rapidly to deve
  
 
 Pammel would serve on the Iowa State Board of Conservation for nine years (1918-1927). During his time on the board 38 parks were established. Thanks in large part to Pammels' perseverance and energy in establishing state parks, visitors can enjoy for 71 state parks and recreation areas in the state as of 2017. 
-
+<br>
 <a href="http://archives.lib.iastate.edu/sites/default/files/documents/finding-aids-RS/13-05-13.pdf">Louis Pammel finding aid</a>.
+<br>
+<br>
+<hr>
+<br>
 
-<br>
-<br>
-
-### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
-
-<br>
-<br>
 <div>
 &nbsp; <a href="/charles-f-curtiss.html">Charles F. Curtiss</a> 
 &nbsp;| <a href="/john-r-fitzsimmons.html">John R. Fitzsimmons</a>
@@ -54,13 +53,15 @@ Pammel would serve on the Iowa State Board of Conservation for nine years (1918-
 </div>
 <br>
 <br>
+
+### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
 <br>
-***
+
 ### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 
 
 
-***
+---
 [^1]: <a href="http://archives.lib.iastate.edu/sites/default/files/documents/finding-aids-RS/13-05-13.pdf">Louis Hermann Pammel Papers</a>, RS 13/5/13, Special Collections and University Archives Department, Iowa State University Library.
 [^2]: Pammel Park has been managed by the Madison County Conservation Board since 1989.
 [^3]: Pammel State Park dedication program, Box 60, Folder 43, Louis Hermann Pammel Papers, Iowa State University Library Special Collections and University Archives.

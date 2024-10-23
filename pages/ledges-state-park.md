@@ -1,6 +1,6 @@
 ---
 title: Ledges State Park
-layout: about
+layout: page
 permalink: /ledges-state-park.html
 # include CollectionBuilder info at bottom
 credits: true
@@ -9,10 +9,11 @@ credits: true
 ---
 
 <div class="card-group">
-{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
+{% include feature/card.html text="Swimming at Ledges Park" header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/04-08-l_offcampus_0377-013-002a.jpg" %}
+{% include feature/card.html text="Custodian's Lodge in Ledges State Park" objectid="/objects/26-05-06_extensionla_0005-025-002a.jpg" %}
 </div>
+
+{% include feature/card.html text="Professor Pammel in Front of a Bridge with Carl Fritz Hemming" objectid="/objects/13-05-a_pammel_1026-002-002a.jpg" %}
 
 
 ## Ledges State Park
@@ -24,22 +25,20 @@ There was a great deal of interest among Boone residents in making the Ledges ar
 Approximately 160,000 people visited the park during its first three years: from three-fourths of Iowa’s counties; the states of California, New York, Michigan, Illinois and Wisconsin; and the countries of China, England, and Switzerland.
 
 In the 1930s, the <a href="https://exhibits.lib.iastate.edu/iowa-state-parks/history/establishment#CCC">Civilian Conservation Corps</a> constructed several structures from native timber and field stone. These can still be seen, and include a stone arch bridge, the Oak Woods and Lower Ledges Shelters, and stone trail steps.
-
+<br>
+<br>
 <a href="https://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/Ledges-State-Park">Ledges State Park</a>
 <br>
 <br>
 <a href="https://www.iihr.uiowa.edu/igs/publications/uploads/GSI-048.pdf">Natural History of Ledges State Park</a>
-
 <br>
+<br>
+<hr>
 
 ### <a href="backbone-state-park.html">Backbone State Park</a> 
 ### <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a>
 ### Ledges State Park
-
-## <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; Parks &nbsp; &nbsp;| &nbsp; &nbsp; <a href="/history-overview.html">History</a>
-
-
 <br>
 <br>
-***
+
 ### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>

@@ -1,6 +1,6 @@
 ---
 title: A More Beautiful Iowa
-layout: about
+layout: page
 permalink: /a-more-beautiful-iowa.html
 ---
 

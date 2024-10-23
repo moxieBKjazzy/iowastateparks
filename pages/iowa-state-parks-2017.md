@@ -1,6 +1,6 @@
 ---
 title: Iowa State Parks 2017
-layout: about
+layout: page
 permalink: /iowa-state-parks-2017.html
 ---
 
@@ -41,7 +41,7 @@ Iowa's State Preserves Act of 1965 provides a strict form of protection to natur
 
 
 
-***
+---
 [^1]:  Rebecca Conard, Places of Quiet Beauty: Parks, Preserves, and Environmentalism (Iowa City: University of Iowa Press, 1997), 237-238.
 
 [^2]:  "Iowa State Preserves," Iowa Department of Natural Resources, accessed October 3, 2017, [http://www.iowadnr.gov/Places-to-Go/State-Preserves].

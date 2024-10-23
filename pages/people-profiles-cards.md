@@ -1,12 +1,12 @@
 ---
 title: People of Parks Profiles
-layout: about
+layout: page
 permalink: /people-profiles-cards.html
 ---
 
 
 <div class="col-12">
-  <h1>People of Parks Profile</h1>
+  <h2>People of Parks Profile</h2>
   <p>In addition to Pammel and his colleagues at ISU, many others joined in the efforts to establish the park system.
     Some of the park names reflect these efforts and other people who have played a role in Iowa's history.</p>
 

@@ -1,6 +1,6 @@
 ---
 title: Establishment
-layout: about
+layout: page
 permalink: /establishment.html
 ---
 
@@ -27,7 +27,8 @@ The young men employed through the Civilian Conservation Corps (CCC) of the 1930
 Iowa State played an important role in CCC work in state parks. State forester and Iowa State's forestry professor, G. B. MacDonald, served as Iowa's CCC director. Under MacDonald's influence, two CCC camps were dedicated to forestry work, and a third camp provided labor for the state tree nursery (established by MacDonald) in Ames. In addition, landscape architects at Iowa State continued to contribute to park design.
 
 The work of the CCC within Iowa was impressive. In less than a decade, "By the time the CCC ended in 1942, the number of CCC enrollees in Iowa camps would total nearly 46,000. They would contribute to the development of more than eighty state parks, and leave a tangible legacy that still numbers more than seven hundred state park structures."[^4]
-
+<br>
+<br>
 For more information on the CCC:
 <br>
 <a href="http://www.lib.uiowa.edu/scua/bai/conard.htm">The Legacy of Hope from an Era of Despair: The CCC and Iowa State Parks</a>
@@ -39,6 +40,7 @@ For more information on the CCC:
 <br>
 
 ---
+
 ### Establishment
 
 ### <a href="Land">Land</a>
@@ -48,10 +50,6 @@ For more information on the CCC:
 <br>
 
 ### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
-
-<br>
-<br>
-
 
 ---
 
