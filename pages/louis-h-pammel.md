@@ -5,11 +5,13 @@ permalink: /louis-h-pammel.html
 ---
 
 <div class="card-group">
-{% include feature/card.html text="Letter from B.J. Horchem to Professor L.H. Pammel, January 4, 1918." objectid="/objects/13-05-13_pammel_0038-003-002-01-pg.jpg" %}
+{% include feature/card.html text="Letter from B.J. Horchem to Professor L.H. Pammel, January 4, 1918." objectid="/objects/13-05-13_pammel_0038-003-002-01.jpg" %}
 {% include feature/card.html text="Portrait of Louis Herman Pammel" objectid="/objects/13-05-a_pammel_1026-004-001-pg.jpg" %}
-{% include feature/card.html text="Newspaper Clipping entitled <em>Professor Pammel Wants Ledges For State Park</em>" objectid="/objects/13-05-13_pammel_0044-002-028-pg.jpg" %}
+{% include feature/card.html objectid="/objects/13-05-13_pammel_0044-002-028-pg.jpg" %}
 </div>
-
+<br>
+<br>
+<br>
 
 ##  Louis H Pammel
 <br>
