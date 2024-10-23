@@ -1,6 +1,6 @@
 ---
 title: History Overview
-layout: about
+layout: page
 permalink: /history-overview.html
 ---
 
@@ -18,11 +18,11 @@ The history section of this website contains information on the establishment of
 
 ### <a href="Land">Land</a>
 
-### <a href="Design">Design</a>a
+### <a href="Design">Design</a>
 <br>
 <br>
 
-### <a href="/people.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks.html">Parks</a>  &nbsp; &nbsp;| &nbsp; &nbsp; History
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a>  &nbsp; &nbsp;| &nbsp; &nbsp; History
 
 <br>
 <br>
