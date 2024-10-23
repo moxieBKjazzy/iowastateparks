@@ -4,7 +4,7 @@ layout: page
 permalink: /charlotte-king.html
 ---
 
-{% include feature/card.html text="Charlotte King at Desk" objectid="/objects/13-05-f_botany_1039-005-001a.jpg" width="50" centered="true" %}
+{% include feature/card.html text="Charlotte King at Desk" objectid="/objects/13-05-f_botany_1039-005-001a-png.jpg" width="50" centered="true" %}
 
 
 ## Charlotte M. King

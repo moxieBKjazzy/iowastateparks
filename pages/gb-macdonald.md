@@ -4,7 +4,7 @@ layout: page
 permalink: /gb-macdonald.html
 ---
 
-{% include feature/card.html text="Professor G. B. MacDonald" objectid="/objects/09-14-a_macdonald_0720-005-001a.jpg" width="25" centered="true" %}
+{% include feature/card.html text="Professor G. B. MacDonald" objectid="/objects/09-14-a_macdonald_0720-005-001a-png.jpg" width="25" centered="true" %}
 
 ## Gilmour Byers (G.B.) MacDonald
 
