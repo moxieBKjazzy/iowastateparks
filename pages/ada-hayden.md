@@ -1,6 +1,6 @@
 ---
 title: Ada Hayden
-layout: about
+layout: page
 permalink: /ada-hayden.html
 ---
 {% include feature/card.html text="Ada Hayden Standing in a Field" objectid="objects/13-05-55_hayden_0004-002-001.jpg" width="25" centered="true" %}
@@ -13,14 +13,6 @@ Throughout her professional life, Hayden fought for the preservation of native p
 In 1945 Hayden authored the report, “<a href="http://publications.iowa.gov/23586/">The selection of prairie areas in Iowa which should be preserved</a>,” in which Hayden advocated for the need to establish state parks and preserves, stressing the necessity for scientific preserves. In 1944, Hayden worked with Iowa State faculty member John M. Aikman to assess the status of conservation within Iowa, particularly focusing on prairie preserves. This 1944 report, published in the <a href="http://www.worldcat.org/oclc/1695497">Iowa Academy of Science Proceedings</a>, "Present Status and Outlook of Conservation in Iowa," led to a subsequent study. Referred to as the Prairie Project, the study looked at prairie remnants throughout the state as a step towards their acquisition. Hayden carried out most of the fieldwork for the Prairie Project. Hayden's work eventually led to the establishment of a large, 240 acre prairie preserve in Howard County near Lime Springs.  This first tract of prairie purchased by the State Conservation Committee was later renamed Hayden Prairie State Preserve in her honor. Hayden continued advocating for prairie preservation up until her death in 1950.
 
 <a href="http://findingaids.lib.iastate.edu/spcl/arch/rgrp/13-5-55.html">Ada Hayden finding aid.</a>
-
-<br>
-<br>
-
-### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
-
-### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
-
 <br>
 <br>
 <div>
@@ -34,4 +26,9 @@ In 1945 Hayden authored the report, “<a href="http://publications.iowa.gov/235
 </div>
 <br>
 <br>
+
+### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
 <br>
+<br>
+
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
