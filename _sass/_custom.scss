@@ -181,7 +181,14 @@ a [aria-label="Back to content"] {
 }
 /* to make all cards the same size in a group */
 .card-group{
-    display: flex;
-    flex-wrap: wrap;
-    align-items: stretch;
+    max-width: auto;
+    height: 100%;
+}
+/* page layouts */
+.pg{
+    background-color: black;
+}
+/* text size for row div */
+row{
+    text-size: 50%;
 }
