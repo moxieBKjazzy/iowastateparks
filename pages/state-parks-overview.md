@@ -17,7 +17,9 @@ permalink: /state-parks-overview.html
 
 After the passage of the first state parks legislation in 1917, the State Board of Conservation, under the leadership of Louis Pammel, quickly set to work establishing state parks within Iowa. Backbone State Park, Ledges State Park and Dolliver Memorial State Park were the first three parks acquired by the State Board of Conservation. Backbone State Park was acquired in 1919,1 and Ledges State Park and Dolliver State Park were acquired in 1921.2 All three parks have a history of their own with a variety of geologic, botanical, and historic features.
 
-***
+
+---
+
 <br>
 
 #### <a href="backbone-state-park.html">Backbone State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/ledges-state-park.html">Ledges State Park</a>
