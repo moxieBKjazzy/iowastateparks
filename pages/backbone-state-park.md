@@ -9,14 +9,14 @@ credits: true
 ---
 
 <div class="card-group">
-{% include feature/card.html text="Photograph of the Backbone State Park" objectid="/objects/26-05-06_landarchext_0003-005-003a.jpg" %}
-{% include feature/card.html text="View of Reibowermere Meadow in Backbone State Park" objectid="/objects/26-05-06_landarchext_0003-005-004a.jpg" %}
+{% include feature/card.html text="Photograph of the Backbone State Park" objectid="/objects/26-05-06_landarchext_0003-005-003a-ppp.jpg" %}
+{% include feature/card.html text="View of Reibowermere Meadow in Backbone State Park" objectid="/objects/26-05-06_landarchext_0003-005-004a-ppp.jpg" %}
    </div>
 
 <div class="card-group">
-{% include feature/card.html text="The Narrow Point on Backbone State Park" objectid="/objects/26-05-06_landarchext_0003-005-001a.jpg" %}
-{% include feature/card.html text="General Plan for the Development of Backbone State Park" objectid="/objects/13-05-13_pammel_tube-073-001.jpg" %}
-{% include feature/card.html text="Backbone State Park" objectid="/objects/26-05-06_extensionla_0005-025-001a.jpg" %}
+{% include feature/card.html text="The Narrow Point on Backbone State Park" objectid="/objects/26-05-06_landarchext_0003-005-001a-ppp.jpg" %}
+{% include feature/card.html text="General Plan for the Development of Backbone State Park" objectid="/objects/13-05-13_pammel_tube-073-001-ppp.jpg" %}
+{% include feature/card.html text="Backbone State Park" objectid="/objects/26-05-06_extensionla_0005-025-001a-ppp.jpg" %}
 </div>
 
 
@@ -33,12 +33,11 @@ Originally 1,280 acres, additional land has been added to Backbone over time and
 <br>
 <a href="https://www.iihr.uiowa.edu/igs/publications/uploads/GSI-061.pdf">The Natural History of Backbone State Park</a>
 
+---
 
 <br>
 
-### Backbone State Park
-### <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a>
-### <a href="/ledges-state-park.html">Ledges State Park</a>
+#### Backbone State Park &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/ledges-state-park.html">Ledges State Park</a>
 <br>
 <br>
 
@@ -47,7 +46,7 @@ Originally 1,280 acres, additional land has been added to Backbone over time and
 <br>
 <br>
 
+---
 
-***
 [^1]: L. H. Pammel, “Established State Parks,” Iowa State Highway Commission, <i>Service Bulletin</i>, No 7 (1913): 7.
 [^2]: 1920 population of Strawberry Point (1,101), Lamont (495), and Dundee (195) = 1,791. The single day high of visitors was 122% of the entire population of these three towns combined. <a href="http://data.iowadatacenter.org/datatables/PlacesAll/plpopulation18502000.pdf">http://data.iowadatacenter.org/datatables/PlacesAll/plpopulation18502000.pdf</a>
