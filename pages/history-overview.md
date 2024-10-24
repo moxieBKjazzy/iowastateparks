@@ -13,16 +13,14 @@ The desire to establish a park system within Iowa existed even before statehood 
 
 The history section of this website contains information on the establishment of state parks in Iowa, the movement for a national park within Iowa's borders, the Civilian Conservation Corp's work during the Great Depression, and background on the landscapes of Iowa's state parks.
 
+---
 
-### <a href="Establishment">Establishment</a>
+<br>
 
-### <a href="Land">Land</a>
-
-### <a href="Design">Design</a>
+### <a href="Establishment">Establishment</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="Land">Land</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="Design">Design</a>
 <br>
 <br>
 
 ### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a>  &nbsp; &nbsp;| &nbsp; &nbsp; History
-
 <br>
 <br>

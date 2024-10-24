@@ -14,6 +14,9 @@ His work within Iowa’s state parks movement included: assisting with the 1915-
 
 <a href="http://findingaids.lib.iastate.edu/spcl/arch/rgrp/9-14-11.html">G.B. MacDonald finding aid</a>.
 <br>
+
+---
+
 <br>
 <div>
 &nbsp; <a href="/charles-f-curtiss.html">Charles F. Curtiss</a> 
@@ -27,7 +30,7 @@ His work within Iowa’s state parks movement included: assisting with the 1915-
 <br>
 <br>
 
-### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
+#### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
 <br>
 
-### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+### People &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>

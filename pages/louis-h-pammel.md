@@ -40,10 +40,10 @@ Pammel would serve on the Iowa State Board of Conservation for nine years (1918-
 <br>
 <a href="http://archives.lib.iastate.edu/sites/default/files/documents/finding-aids-RS/13-05-13.pdf">Louis Pammel finding aid</a>.
 <br>
-<br>
-<hr>
-<br>
 
+---
+
+<br>
 <div>
 &nbsp; <a href="/charles-f-curtiss.html">Charles F. Curtiss</a> 
 &nbsp;| <a href="/john-r-fitzsimmons.html">John R. Fitzsimmons</a>
@@ -54,12 +54,15 @@ Pammel would serve on the Iowa State Board of Conservation for nine years (1918-
 &nbsp;| <a href="/raymond-a-pearson.html">Raymond A. Pearson</a>
 </div>
 <br>
+
+---
+
 <br>
 
-### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
+#### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
 <br>
 
-### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+### People &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 
 ---
 [^1]: <a href="http://archives.lib.iastate.edu/sites/default/files/documents/finding-aids-RS/13-05-13.pdf">Louis Hermann Pammel Papers</a>, RS 13/5/13, Special Collections and University Archives Department, Iowa State University Library.

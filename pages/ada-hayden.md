@@ -14,6 +14,9 @@ In 1945 Hayden authored the report, “<a href="http://publications.iowa.gov/235
 
 <a href="http://findingaids.lib.iastate.edu/spcl/arch/rgrp/13-5-55.html">Ada Hayden finding aid.</a>
 <br>
+
+---
+
 <br>
 <div>
 &nbsp; <a href="/charles-f-curtiss.html">Charles F. Curtiss</a> 
@@ -27,7 +30,7 @@ In 1945 Hayden authored the report, “<a href="http://publications.iowa.gov/235
 <br>
 <br>
 
-### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
+#### ISU People &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
 <br>
 
-### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+### People &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>

@@ -24,21 +24,19 @@ Beginning in 1933, the <a href="establishment#CCC">Civilian Conservation Corps</
 
 The park’s bathing area, picnicking, hiking and camping area and Richmond Springs are listed on the National Register of Historic Places as the <a href="https://npgallery.nps.gov/NRHP/AssetDetail?assetID=ffdfee33-0d9b-4007-b027-e974145bd21f">Backbone State Park Historic District.</a>
 <br>
+
+---
+
 <br>
 
-***
-
-### <a href="Establishment">Establishment</a>
-
-### <a href="Land">Land</a>
-
-### Design
+### <a href="Establishment">Establishment</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="Land">Land</a> &nbsp; &nbsp; | &nbsp; &nbsp; Design
 <br>
 <br>
 
-### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a>  &nbsp; &nbsp;| &nbsp; &nbsp; History
 <br>
 <br>
 
 ---
+
 [^1]: <a href="http://cdm16001.contentdm.oclc.org/cdm/compoundobject/collection/p16001coll36/id/75/rec/8">Sketch Plan of Shelter House For State Parks</a> __Rights__: This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located. If you have any information that can contribute to identifying or locating the rights-holder(s) please notify the Iowa State University Library Digital Initiatives Program (digital@iastate.edu). (Rightsstatements.org InC-RUU 1.0). The original object is available at the Iowa State University Library Special Collections and University Archives (archives@iastate.edu).

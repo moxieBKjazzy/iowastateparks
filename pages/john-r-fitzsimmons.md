@@ -12,6 +12,8 @@ John R. Fitzsimmons arrived at Iowa State College in late 1924 after earning the
 
 <a href="https://cardinal.lib.iastate.edu/repositories/2/archival_objects/306263">John R. Fitzsimmons papers, RS 26/5/12</a>.
 
+---
+
 <br>
 <div>
 &nbsp; <a href="/charles-f-curtiss.html">Charles F. Curtiss</a> 
@@ -25,7 +27,7 @@ John R. Fitzsimmons arrived at Iowa State College in late 1924 after earning the
 <br>
 <br>
 
-### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
+#### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
 <br>
 
-### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+### People &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>

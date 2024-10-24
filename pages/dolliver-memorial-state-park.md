@@ -32,19 +32,18 @@ Soon after the State Board of Conservation was created in 1917, a number of prom
 <a href="https://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/Dolliver-Memorial-State-Park">Dolliver State Park</a>
 <br>
 <a href="http://publications.iowa.gov/11303/1/Dolliver_Memorial_State_Park001.pdf">Iowa State Conservation Board, Dolliver Memorial State Park</a>
+
+---
+
 <br>
-<br>
 
-### <a href="/backbone-state-park.html">Backbone State Park</a> 
-
-### Dolliver Memorial State Park
-
-### <a href="/ledges-state-park.html">Ledges State Park</a>
+#### <a href="backbone-state-park.html">Backbone State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; Dolliver Memorial State Park &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/ledges-state-park.html">Ledges State Park</a>
 <br>
 <br>
 
 ### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; Parks &nbsp; &nbsp;| &nbsp; &nbsp; <a href="/history-overview.html">History</a>
 
-***
+---
+
 [^1]: 
 [^2]: “The Natural History of Dolliver Memorial State Park, Webster County, Iowa,” edited by Raymond R. Anderson and Chad L. Fields, Guidebook 81 (Iowa City: Iowa Department of Natural Resources Geological Survey Bureau, 2007), 58. Available online: <a href="http://s-iihr34.iihr.uiowa.edu/publications/uploads/GSI-081.pdf">http://s-iihr34.iihr.uiowa.edu/publications/uploads/GSI-081.pdf</a>.

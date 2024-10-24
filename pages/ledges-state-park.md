@@ -9,11 +9,11 @@ credits: true
 ---
 
 <div class="card-group">
-{% include feature/card.html text="Swimming at Ledges Park" header="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/04-08-l_offcampus_0377-013-002a.jpg" %}
-{% include feature/card.html text="Custodian's Lodge in Ledges State Park" objectid="/objects/26-05-06_extensionla_0005-025-002a.jpg" %}
+{% include feature/card.html text="Swimming at Ledges Park" objectid="/objects/04-08-l_offcampus_0377-013-002a-pp.jpg" %}
+{% include feature/card.html text="Custodian's Lodge in Ledges State Park" objectid="/objects/26-05-06_extensionla_0005-025-002a-ppp.jpg" %}
 </div>
 
-{% include feature/card.html text="Professor Pammel in Front of a Bridge with Carl Fritz Hemming" objectid="/objects/13-05-a_pammel_1026-002-002a.jpg" %}
+{% include feature/card.html text="Professor Pammel in Front of a Bridge with Carl Fritz Hemming" objectid="/objects/13-05-a_pammel_1026-002-002a-ppp.jpg" %}
 
 
 ## Ledges State Park
@@ -31,13 +31,12 @@ In the 1930s, the <a href="https://exhibits.lib.iastate.edu/iowa-state-parks/his
 <br>
 <br>
 <a href="https://www.iihr.uiowa.edu/igs/publications/uploads/GSI-048.pdf">Natural History of Ledges State Park</a>
-<br>
-<br>
-<hr>
 
-### <a href="backbone-state-park.html">Backbone State Park</a> 
-### <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a>
-### Ledges State Park
+---
+
+<br>
+
+#### <a href="backbone-state-park.html">Backbone State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/dolliver-memorial-state-park.html">Dolliver Memorial State Park</a> &nbsp; &nbsp; | &nbsp; &nbsp; Ledges State Park
 <br>
 <br>
 

@@ -23,6 +23,9 @@ other contributions
 
 Iowa State individuals who aided the state park movement include president <a href="raymond-a-pearson.html">Raymond A. Pearson</a>, forester <a href="gb-macdonald.html">G. B. MacDonald</a>, landscape architect <a href="john-r-fitzsimmons.html">John Fitzsimmons</a>, botanist <a href="/ada-hayden.html">Ada Hayden</a>, Dean of the College of Agriculture and Life Sciences <a href="charles-f-curtiss.html">Charles Curtiss</a>, and the park movement’s central leader, botanist <a href="louis-h-pammel.html">Louis Pammel</a>, among others.
 <br>
+
+---
+
 <br>
 <div>
 &nbsp; <a href="/charles-f-curtiss.html">Charles F. Curtiss</a> 
@@ -36,8 +39,7 @@ Iowa State individuals who aided the state park movement include president <a hr
 <br>
 <br>
 
-### ISU People &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile<a>
-<br>
+#### ISU People &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile<a>
 <br>
 
-<a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
+### People &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp;  | &nbsp; &nbsp; <a href="/history-overview.html">History</a>

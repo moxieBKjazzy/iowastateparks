@@ -59,21 +59,18 @@ Students at Iowa State took part in these efforts. The Iowa Student Public Inter
 In 1975, as the Saylorville Reservoir project was nearing completion, concerned citizens in central Iowa, including some Iowa State students and faculty, reached out to first-year Congressman Tom Harkin in an effort to save the Ledges from excessive flooding due to the Saylorville Reservoir project. The group was in favor of constructing a retaining wall to protect the lower Ledges from flooding, but funding and support for that idea never materialized.
 
 <a href="http://www.iowadnr.gov/Places-to-Go/State-Parks/Iowa-State-Parks/ParkDetails/ParkID/610157">Big Creek State Park,</a> located along Big Creek Lake, provides a variety of recreational activities including camping, bicycle trails, and lake activities. The lake was created as a part of the Saylorville Reservoir project, providing a flood control system to the Des Moines and Mississippi rivers.
+
+---
+
+<br>
+
+### <a href="Establishment">Establishment</a> &nbsp; &nbsp; | &nbsp; &nbsp; Land &nbsp; &nbsp; | &nbsp; &nbsp; <a href="Design">Design</a>
 <br>
 <br>
 
-***
-### <a href="Establishment">Establishment</a>
-
-### Land
-
-### <a href="design.html">Design</a>
+### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a>  &nbsp; &nbsp;| &nbsp; &nbsp; History
 <br>
 <br>
-### <a href="/people-overview.html">People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/history-overview.html">History</a>
-<br>
-<br>
-
 
 ---
 

@@ -8,15 +8,16 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 <div class="card-group">
-{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech.png" %}
-{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-A_Pammel_1026-002-001a.png" %}
+{% include feature/card.html text="Louis Pammel Speaking at the dedication of Ledges State Park." objectid="/objects/people-parks/Pammel-speech-ppp.png" %}
+{% include feature/card.html text="Professor Pammel with a Class at Ledges State Park" objectid="/objects/people-parks/13-05-a_pammel_1026-002-001a-ppp.png" %}
 </div>
 
 ## People
 
 Numerous people and organizations worked to bring Iowa's 1917 state park act into being, including faculty, staff and administrators at Iowa State. Individuals within the state parks movement worked through a variety of organizations, such as the Iowa Academy of Science, Iowa Park and Forestry Association (later the Iowa Conservation Association), and the Iowa Federation of Women's Clubs.
 
-<br>
+---
+
 <br>
 <div>
 &nbsp; <a href="/charles-f-curtiss.html">Charles F. Curtiss</a> 
@@ -27,11 +28,12 @@ Numerous people and organizations worked to bring Iowa's 1917 state park act int
 &nbsp;| <a href="/louis-h-pammel.html">Louis H. Pammel</a> 
 &nbsp;| <a href="/raymond-a-pearson.html">Raymond A. Pearson</a>
 </div>
-<br>
+
+---
+
 <br>
 
 #### <a href="/isu-people.html">ISU People</a> &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/people-of-parks-profiles.html">People of Parks Profile</a>
-<br>
 <br>
 
 ### People &nbsp; &nbsp; | &nbsp; &nbsp; <a href="/state-parks-overview.html">Parks</a> &nbsp; &nbsp;| &nbsp; &nbsp; <a href="/history-overview.html">History</a>
