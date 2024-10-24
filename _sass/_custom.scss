@@ -183,7 +183,6 @@ a [aria-label="Back to content"] {
 .card-group{
     max-width: auto;
     height: 100%;
-    margin-left: 5px;
 }
 /* page layouts */
 .pg{
@@ -192,4 +191,11 @@ a [aria-label="Back to content"] {
 /* text size for row div */
 row{
     text-size: 50%;
+}
+/* cards on people of parks cards */
+.card-header{
+    font-size: 1em;
+}
+.card-text{
+    font-size: 1em;
 }
