@@ -80,14 +80,14 @@ a {
 
 #footer-nav .nav-link.active,
 #footer-nav .show>.nav-link {
-    color: #fff;
-    border: solid white 1px;
+    color: black;
+    border: solid black 1px;
     background: transparent;
 }
 
 #footer-nav .nav-link:hover {
-    color: white;
-    background: rgba(255, 255, 255, .10);
+    color:black;
+    background: rgb(255, 255, 255);
 }
 
 /* scroll to top */
